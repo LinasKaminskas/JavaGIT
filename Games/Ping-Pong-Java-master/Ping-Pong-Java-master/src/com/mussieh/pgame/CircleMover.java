@@ -291,10 +291,10 @@ public class CircleMover extends AbstractSceneShape implements Runnable
    public void drawGameOver(Graphics2D g2)
    {
       g2.setFont(new Font("default", Font.BOLD, 40));
-      g2.drawString("Game Over", super.getXPosition() + 250, 
+      g2.drawString("Game Baigtas", super.getXPosition() + 250,
             super.getYPosition() + 202);
       g2.setFont(new Font("default", Font.BOLD, 20));
-      g2.drawString("Game Score: " , super.getXPosition() + 500, 
+      g2.drawString("Game Rezultatas " , super.getXPosition() + 500,
             super.getYPosition() + 40);
    }
    

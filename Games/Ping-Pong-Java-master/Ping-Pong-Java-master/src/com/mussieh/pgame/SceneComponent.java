@@ -26,8 +26,8 @@ public class SceneComponent extends JComponent
    private RectangleShape innerRectangle;
    private Timer timer;
    
-   private static final String SCORE_LABEL = "Score: 0";
-   private static final String LIVES_LABEL = "   Lives Left: 3";
+   private static final String SCORE_LABEL = "Rezultatas: 0";
+   private static final String LIVES_LABEL = "   Liko gyvybiu: 3";
    private static final int LEFT_OF_THE_BOUNDING_RECTANGLE = 650;
    private static final int TOP_OF_THE_BOUNDING_RECTANGLE = 180;
    private static final int WIDTH_OF_THE_BOUNDING_RECTANGLE = 20;
@@ -108,10 +108,10 @@ public class SceneComponent extends JComponent
       if(movingCircle.isScoreUpdated())
       {
          int score = movingCircle.getScore();
-         scoreLabel.setText("Score: " + score);
+         scoreLabel.setText("Rezultatas: " + score);
          innerRectangle.setHighScore(score);
       }
-      livesLabel.setText("   Lives Left: " + movingCircle.getLivesLeft());
+      livesLabel.setText("   Liko gyvybiu " + movingCircle.getLivesLeft());
       
       if( movingCircle.getLivesLeft() == 0 )
       {

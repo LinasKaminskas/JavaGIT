@@ -23,10 +23,10 @@ import javax.swing.Timer;
  */
 public class Pong
 {
-   private static final String DIFFICULTY = "Difficulty Level: ";
-   private static final String RESTART = "Restart";
-   private static final String SCORE_LABEL = "Score: 0";
-   private static final String LIVES_LABEL = "   Lives Left: 3";
+   private static final String DIFFICULTY = "Sudetingumas: ";
+   private static final String RESTART = "Is naujo";
+   private static final String SCORE_LABEL = "Rezultatas: 0";
+   private static final String LIVES_LABEL = "   Liko gyvybiu: 3";
    
    private static final int FRAME_WIDTH = 800;
    private static final int FRAME_HEIGHT = 600;
@@ -74,11 +74,11 @@ public class Pong
    private static final int OUTER_RECTANGLE_WIDTH_CONSTANT = 750;
    private static final int OUTER_RECTANGLE_HEIGHT_CONSTANT = 450;
    
-   private static final String START = "Start";
+   private static final String START = "Startas";
    private static final String PAUSE = "Pause";
-   private static final String EASY = "Easy";
-   private static final String MEDIUM = "Medium";
-   private static final String HARD = "Hard";
+   private static final String EASY = "Lengvai";
+   private static final String MEDIUM = "Vidutiniskai";
+   private static final String HARD = "Sunkiai";
    
    private int paddleVerticalTranslationFactor;
    private Timer timer;
@@ -126,7 +126,7 @@ public class Pong
              scene.repaint();
              if(movingCircle.getLivesLeft() == 0)
              {
-                outerRectangle.setBodyColor(Color.RED);
+                outerRectangle.setBodyColor(Color.BLACK);
              }
           }
       };
@@ -251,12 +251,12 @@ public class Pong
                {
                   timer.stop();
                   movingCircle.clearStats();
-                  scoreLabel.setText("Score: " + movingCircle.getScore());
-                  livesLabel.setText("   Lives Left: " + 
+                  scoreLabel.setText("Rezultatas: " + movingCircle.getScore());
+                  livesLabel.setText("   Liko gyvybiu: " +
                         movingCircle.getLivesLeft());
                   movingCircle.setGameStatus(false);
-                  rightEdge.setBodyColor(Color.red);
-                  outerRectangle.setBodyColor(Color.blue);
+                  rightEdge.setBodyColor(Color.white);
+                  outerRectangle.setBodyColor(Color.yellow);
                   threadStarted = false;
                   paddle.setXPosition(PADDLE_X_POSITION_CONSTANT);
                   paddle.setYPosition(PADDLE_Y_POSITION_CONSTANT);
@@ -286,7 +286,7 @@ public class Pong
             if(difficulty.equals(EASY))
             {
                movingCircle.setLivesLeft(EASY_MODE_LIVES_LEFT_CONSTANT );
-               livesLabel.setText("   Lives Left: " + 
+               livesLabel.setText("   Liko gyvybiu: " +
                      movingCircle.getLivesLeft());
                movingCircle.setThreadDelay(EASY_MODE_THREAD_DELAY_CONSTANT);
                paddleVerticalTranslationFactor = 
@@ -296,7 +296,7 @@ public class Pong
             else if (difficulty.equals(MEDIUM))
             {
                movingCircle.setLivesLeft(MEDIUM_MODE_LIVES_LEFT_CONSTANT );
-               livesLabel.setText("   Lives Left: " + 
+               livesLabel.setText("   Liko gyvybiut: " +
                      movingCircle.getLivesLeft());
                movingCircle.setThreadDelay(MEDIUM_MODE_THREAD_DELAY_CONSTANT);
                paddleVerticalTranslationFactor = 
@@ -305,7 +305,7 @@ public class Pong
             else
             {
                movingCircle.setLivesLeft(HARD_MODE_LIVES_LEFT_CONSTANT );
-               livesLabel.setText("   Lives Left: " + 
+               livesLabel.setText("   Liko gyvybiu " +
                      movingCircle.getLivesLeft());
                movingCircle.setThreadDelay(HARD_MODE_THREAD_DELAY_CONSTANT);
                paddleVerticalTranslationFactor = 
@@ -329,9 +329,9 @@ public class Pong
       difficultyPanel.add(gameDifficultyList);
       
       outerRectangle.setBodyColor(Color.blue);
-      innerRectangle.setBodyColor(Color.black);
+      innerRectangle.setBodyColor(Color.red);
       scene.setGameDisplay(innerRectangle);
-      rightEdge.setBodyColor(Color.red);
+      rightEdge.setBodyColor(Color.black);
       movingCircle.setRightEdge(rightEdge);
       paddle.setBodyColor(Color.blue);
       
