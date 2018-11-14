@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08cd8df1-d2ea-4f03-94b2-8889921f30ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/NuskaitymasIsEkrano.java" afterDir="false" />
+    <list default="true" id="08cd8df1-d2ea-4f03-94b2-8889921f30ef" name="Default Changelist" comment="add NuskaitymasIsEkrano">
+      <change afterPath="$PROJECT_DIR$/../Games/Java-Snake-Game-master/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/Ping-Pong-Java-master/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/Ping-Pong-Java-master/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/Ping-Pong-Java-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/AbstractSceneShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/CircleMover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/Pong$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/Pong$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/Pong$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/Pong$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/Pong$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/Pong$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/Pong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/RectangleShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/SceneComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPamokos/com/mussieh/pgame/SceneShape.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,23 +31,24 @@
     <session id="-732807839">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="316" />
-          <entry key="txt" value="16" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="316" />
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="PLAIN_TEXT" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -121,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -149,12 +164,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542167866660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542171163242" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -237,7 +253,9 @@
       <workItem from="1542018911974" duration="982000" />
       <workItem from="1542019935574" duration="9706000" />
       <workItem from="1542105003025" duration="434000" />
-      <workItem from="1542163008795" duration="2456000" />
+      <workItem from="1542163008795" duration="3480000" />
+      <workItem from="1542175622371" duration="612000" />
+      <workItem from="1542176702137" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="Bandymas">
       <created>1542019631425</created>
@@ -274,17 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1542093303222</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add NuskaitymasIsEkrano">
+      <created>1542167951031</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542167951031</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13578000" />
+    <option name="totallyTimeSpent" value="15862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -336,17 +360,12 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Bandymas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bandymas" />
+    <MESSAGE value="add NuskaitymasIsEkrano" />
+    <option name="LAST_COMMIT_MESSAGE" value="add NuskaitymasIsEkrano" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Ping-Pong-Java-master/src/com/mussieh/pgame/Pong.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/IsvedimasIEkrana.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/IsvedimasIEkrana.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
