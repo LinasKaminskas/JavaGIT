@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478ec4a8-a858-4694-8ed2-7daf337e9aee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BT-Java-Samples-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/res/Tekstas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IdeaProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ciklai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,17 +136,12 @@
             <path>
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="BT-Java-Samples" type="462c0819:PsiDirectoryNode" />
+              <item name="Ciklai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaPamokos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaPamokos" type="462c0819:PsiDirectoryNode" />
+              <item name="Ciklai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -165,7 +153,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542278587942" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542278687734" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -197,7 +185,7 @@
       <updated>1542018362112</updated>
       <workItem from="1542018363331" duration="195000" />
       <workItem from="1542268377132" duration="827000" />
-      <workItem from="1542271785082" duration="4325000" />
+      <workItem from="1542271785082" duration="4599000" />
     </task>
     <task id="LOCAL-00001" summary="su BT-Java-Simples">
       <created>1542273262942</created>
@@ -206,14 +194,29 @@
       <option name="project" value="LOCAL" />
       <updated>1542273262943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="su BT-Java-Simples">
+      <created>1542278561084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542278561084</updated>
+    </task>
+    <task id="LOCAL-00003" summary="su BT-Java-Simples">
+      <created>1542278669123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542278669123</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5347000" />
+    <option name="totallyTimeSpent" value="5621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

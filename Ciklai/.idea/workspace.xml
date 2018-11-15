@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68feb885-7719-4d83-bb63-df6f92c08cd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BT-Java-Samples-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Tekstas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UzAntrasFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UzAntrasFileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UzPirmasDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UzPirmasDoWhile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542278587972" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542278687766" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -263,15 +257,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542272022879</updated>
-      <workItem from="1542272028977" duration="4819000" />
+      <workItem from="1542272028977" duration="5093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4819000" />
+    <option name="totallyTimeSpent" value="5093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
