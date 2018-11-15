@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478ec4a8-a858-4694-8ed2-7daf337e9aee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BT-Java-Samples-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT-Java-Samples/.idea/BT-Java-Samples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT-Java-Samples/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT-Java-Samples/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT-Java-Samples/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT-Java-Samples/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/Ciklai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ciklai/res/Tekstas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IdeaProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPamokos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPamokos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,26 +30,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="3" />
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -70,7 +63,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Uzduotis2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -79,15 +72,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/ReadFromFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" selection-start-line="4" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -121,6 +143,11 @@
             <path>
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Java-Samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
               <item name="JavaPamokos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -138,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542273032331" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542278519669" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -170,16 +197,23 @@
       <updated>1542018362112</updated>
       <workItem from="1542018363331" duration="195000" />
       <workItem from="1542268377132" duration="827000" />
-      <workItem from="1542271785082" duration="837000" />
+      <workItem from="1542271785082" duration="4325000" />
     </task>
+    <task id="LOCAL-00001" summary="su BT-Java-Simples">
+      <created>1542273262942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542273262943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1859000" />
+    <option name="totallyTimeSpent" value="5347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -217,11 +251,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="su BT-Java-Simples" />
+    <option name="LAST_COMMIT_MESSAGE" value="su BT-Java-Simples" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Uzduotis2.java">
@@ -231,5 +266,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/ReadFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IdeaProjects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
