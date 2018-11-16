@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68feb885-7719-4d83-bb63-df6f92c08cd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/UzPenktasEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ciklai/src/UzKetvirtasSwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UzKetvirtasSwich.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ciklai/src/UzPirmasWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UzPirmasWhile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,27 +24,27 @@
         <counts>
           <entry key="NaujasTekstas" value="2" />
           <entry key="Tekstas" value="1" />
-          <entry key="java" value="7" />
+          <entry key="java" value="8" />
           <entry key="res" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="8" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Tekstas" value="30" />
-          <entry key="java" value="1738" />
+          <entry key="java" value="2049" />
           <entry key="res" value="1" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1738" />
+          <entry key="JAVA" value="2049" />
           <entry key="PLAIN_TEXT" value="60" />
         </counts>
       </usages-collector>
@@ -62,15 +61,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
               <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UzPirmasWhile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -111,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UzTreciasAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="105">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -122,6 +112,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UzPenktasEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/UzAntrasFileWriter.java" />
         <option value="$PROJECT_DIR$/src/Ciklai/src/UzKetvirtasSwich.java" />
         <option value="$PROJECT_DIR$/src/UzKetvirtasSwich.java" />
+        <option value="$PROJECT_DIR$/src/UzPenktasEven.java" />
       </list>
     </option>
   </component>
@@ -201,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542407672399" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542408634319" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -217,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UzKetvirtasSwich">
+  <component name="RunManager" selected="Application.UzPenktasEven">
     <configuration name="UzAntrasFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UzAntrasFileReader" />
       <module name="Ciklai" />
@@ -245,8 +248,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UzPirmasDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UzPirmasDoWhile" />
+    <configuration name="UzPenktasEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UzPenktasEven" />
       <module name="Ciklai" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -260,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UzPirmasDoWhile" />
       <item itemvalue="Application.UzAntrasFileReader" />
       <item itemvalue="Application.UzAntrasFileWriter" />
       <item itemvalue="Application.UzTreciasAverage" />
       <item itemvalue="Application.UzKetvirtasSwich" />
+      <item itemvalue="Application.UzPenktasEven" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UzPenktasEven" />
         <item itemvalue="Application.UzKetvirtasSwich" />
         <item itemvalue="Application.UzTreciasAverage" />
         <item itemvalue="Application.UzAntrasFileWriter" />
         <item itemvalue="Application.UzAntrasFileReader" />
-        <item itemvalue="Application.UzPirmasDoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +289,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542272022879</updated>
-      <workItem from="1542272028977" duration="15011000" />
+      <workItem from="1542272028977" duration="15965000" />
     </task>
     <task id="LOCAL-00001" summary="FileWrite">
       <created>1542278766388</created>
@@ -323,14 +326,22 @@
       <option name="project" value="LOCAL" />
       <updated>1542407497151</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="switch">
+      <created>1542407692805</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542407692805</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15011000" />
+    <option name="totallyTimeSpent" value="15965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -338,7 +349,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -347,7 +358,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,10 +434,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UzTreciasAverage.java">
+    <entry file="file://$PROJECT_DIR$/src/UzPirmasWhile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -437,10 +448,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UzPirmasWhile.java">
+    <entry file="file://$PROJECT_DIR$/src/UzTreciasAverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UzPenktasEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
