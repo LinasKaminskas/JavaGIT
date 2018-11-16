@@ -1,5 +1,3 @@
-package Ciklai.src;
-
 import java.util.Scanner;
 
 public class UzKetvirtasSwich {

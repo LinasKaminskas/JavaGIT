@@ -1,5 +1,3 @@
-package Ciklai.src;
-
 public class UzPirmasWhile {
     public static void main(String[] args) {
         int i = 0;
