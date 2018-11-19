@@ -1,3 +1,5 @@
+package Uzduotys.src;
+
 import java.util.Scanner;
 
 public class Uzduotis2 {
