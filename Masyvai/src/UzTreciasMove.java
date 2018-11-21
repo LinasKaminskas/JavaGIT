@@ -1,4 +1,3 @@
-import java.awt.*;
 
 public class UzTreciasMove {
     public static void main(String[] args) {

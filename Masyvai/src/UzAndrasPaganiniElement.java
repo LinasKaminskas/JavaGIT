@@ -1,4 +1,4 @@
-public class UzAntrasPasalintiElementa {
+public class UzAndrasPaganiniElement {
     public static void main(String[] args) {
         int[] array = {8, 5, 6, 4, 9, 1, 7};
         int arrayLength = array.length;
@@ -27,5 +27,4 @@ public class UzAntrasPasalintiElementa {
             }
         }
     }
-    }
-
+}
