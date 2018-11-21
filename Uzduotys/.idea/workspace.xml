@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7244f0ce-dd27-438a-85dc-de5d67e1faec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Uzduotys/src/UzduotisMasyvai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Masyvai/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Masyvai/src/TaisytasAntrasPasElementa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Masyvai/src/UzAntrasPasalintiElementa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/src/UzAndrasPaganiniElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Masyvai/src/UzPirmaAverageArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/src/UzPirmaAverageArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Masyvai/src/UzTreciasMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/src/UzTreciasMove.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -150,7 +148,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542772056166" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542772325774" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Masyvai" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
