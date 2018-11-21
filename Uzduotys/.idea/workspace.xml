@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7244f0ce-dd27-438a-85dc-de5d67e1faec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Masyvai/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Masyvai/src/TaisytasAntrasPasElementa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funkcijos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funkcijos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funkcijos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funkcijos/Funkcijos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Funkcijos/src/UzPirmaAverageArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -148,8 +151,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542772325774" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Masyvai" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542772370749" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -219,7 +222,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542594564696</updated>
       <workItem from="1542594569169" duration="7947000" />
-      <workItem from="1542694222553" duration="4874000" />
+      <workItem from="1542694222553" duration="5089000" />
     </task>
     <task id="LOCAL-00001" summary="add Uzduotys">
       <created>1542594929306</created>
@@ -232,11 +235,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12821000" />
+    <option name="totallyTimeSpent" value="13036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
