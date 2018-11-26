@@ -1,3 +1,5 @@
+package Funkcijos.src;
+
 public class UzPirmaAverageArray {
     public static void main(String[] args) {
         int[] myArray = {88, 7, 8, 1, 9};

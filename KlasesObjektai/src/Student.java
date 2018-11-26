@@ -1,22 +1,44 @@
-import java.util.Scanner;
 
 public class Student {
-    public static void main(String[] args) {
-        printToScreen("Iveskite varda:  ");
-        String firstName = readFromScreen();
-        printToScreen("Iveskite pavarde:  ");
-        String lastName = readFromScreen();
+    private String name = "Linas";
+    private String lastName = "Kaminskas";
+    private String klase = "Pirma";
 
-    }
-
-    private static void printToScreen(String text) {
-        System.out.println(text);
-    }
-
-    private static String readFromScreen() {
-        Scanner reader = new Scanner(System.in);
-        String name = reader.next();
-        //reader.close();
+    public String getName() {
         return name;
     }
-}
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public String getKlase() {
+        return klase;
+    }
+
+    public static int pazymiaiElementSum(int[] array) {
+        int sum = 0;
+        for (int i = 0; i < array.length; i++) {
+            sum += array[i];
+        }
+        return sum;
+    }
+
+    public static int pazymiaiAverage(int[] array) {
+        int arrayLenght = array.length;
+        int average = pazymiaiElementSum(array) / arrayLenght;
+        return average;
+    }
+
+    public static int lankomumasNe(int[] lankomumas) {
+        int sum = 0;
+        for (int i = 0; i < lankomumas.length; i++) {
+            sum += lankomumas[i];
+            }
+            return sum;
+        }
+    }
+
+
+
+

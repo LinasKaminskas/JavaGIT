@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478ec4a8-a858-4694-8ed2-7daf337e9aee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Funkcijos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasesObjektai/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasesObjektai/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasesObjektai/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasesObjektai/KlasesObjektai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasesObjektai/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uzduotys/src/Funkcijos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KlasesObjektai/src/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT-Java-Samples/BalticTalents-Samples.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ciklai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funkcijos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Funkcijos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funkcijos/src/UzPirmaAverageArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Funkcijos/src/UzPirmaAverageArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Masyvai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Masyvai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uzduotys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Uzduotys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uzduotys/src/Uzduotys/src/Uzduotis2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uzduotys/src/Uzduotis2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uzduotys/src/Uzduotys/src/UzduotisMasyvai.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uzduotys/src/UzduotisMasyvai.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +36,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="5" />
           <entry key="PLAIN_TEXT" value="45" />
         </counts>
       </usages-collector>
@@ -59,7 +56,7 @@
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="5" />
           <entry key="txt" value="45" />
         </counts>
       </usages-collector>
@@ -67,25 +64,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java">
+        <entry file="file://$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Uzduotys/src/Uzduotys/src/Uzduotis2.java">
+        <entry file="file://$PROJECT_DIR$/Funkcijos/src/UzPirmaAverageArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Uzduotys/src/Uzduotis2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Uzduotys/src/UzduotisMasyvai.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -101,6 +111,8 @@
         <option value="$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java" />
         <option value="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" />
         <option value="$PROJECT_DIR$/Uzduotys/src/Uzduotis2.java" />
+        <option value="$PROJECT_DIR$/Funkcijos/src/UzPirmaAverageArray.java" />
+        <option value="$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java" />
       </list>
     </option>
   </component>
@@ -133,6 +145,28 @@
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Funkcijos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Funkcijos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Masyvai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Masyvai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543206282700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543227295350" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -252,7 +286,7 @@
       <workItem from="1542598967272" duration="2034000" />
       <workItem from="1542611824335" duration="4120000" />
       <workItem from="1542774492801" duration="511000" />
-      <workItem from="1543205776078" duration="503000" />
+      <workItem from="1543205776078" duration="4953000" />
     </task>
     <task id="LOCAL-00001" summary="su BT-Java-Simples">
       <created>1542273262942</created>
@@ -286,7 +320,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18644000" />
+    <option name="totallyTimeSpent" value="23094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -361,20 +395,41 @@
     <entry file="file://$PROJECT_DIR$/lt/bt/java/demo/arrays/ArrayDemo1.java" />
     <entry file="file://$PROJECT_DIR$/lt/bt/java/demo/arrays/RemoveFromArray.java" />
     <entry file="file://$PROJECT_DIR$/lt/bt/java/demo/arrays/InsertToArray.java" />
-    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Uzduotys/src/Uzduotys/src/Uzduotis2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uzduotys/src/Uzduotis2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uzduotys/src/UzduotisMasyvai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcijos/src/UzPirmaAverageArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>

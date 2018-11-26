@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b93c5bef-3929-4999-9013-3907ebdbf6ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Funkcijos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KlasesObjektai/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Uzduotys/src/Funkcijos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ciklai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Funkcijos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Funkcijos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Uzduotys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Uzduotys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +16,7 @@
     <session id="-1318777831">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -249,7 +242,7 @@
       <workItem from="1542695287155" duration="14414000" />
       <workItem from="1542783948238" duration="1562000" />
       <workItem from="1542824265960" duration="1959000" />
-      <workItem from="1543198478091" duration="2142000" />
+      <workItem from="1543198478091" duration="2226000" />
     </task>
     <task id="LOCAL-00001" summary="add Masyvai">
       <created>1542649502961</created>
@@ -290,7 +283,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38174000" />
+    <option name="totallyTimeSpent" value="38258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
