@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c84b0f5-e9b2-47af-8705-9bb22c079618" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemperaturaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Funkcijos/src/UzPirmaAverageArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Funkcijos/src/UzPirmaAverageArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzPenktasEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzPenktasEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzPirmasFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzPirmasFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzPirmasWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzPirmasWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Masyvai/src/UzPirmaAverageArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/src/UzPirmaAverageArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Uzduotys/src/Uzduotys/src/Uzduotis2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Uzduotys/src/Uzduotis2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Uzduotys/src/Uzduotys/src/UzduotisMasyvai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Uzduotys/src/UzduotisMasyvai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masyvai/src/TaisytasAntrasPasElementa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/src/TaisytasAntrasPasElementa.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,23 +29,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="AtsakymasTekstas" value="1" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="5" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1397" />
+          <entry key="java" value="3313" />
           <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1397" />
+          <entry key="JAVA" value="3313" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
@@ -53,13 +55,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="-184">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding>
-                <element signature="e#188#189#0" expanded="true" />
                 <element signature="e#214#215#0" expanded="true" />
                 <element signature="e#229#230#0" expanded="true" />
                 <element signature="e#260#261#0" expanded="true" />
@@ -73,10 +74,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="84">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Temperatura.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-205">
+              <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+              <folding>
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TemperaturaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/AtsakymasTekstas">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -88,6 +123,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Nemesis\IdeaProjects\KlasesObjektai</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -96,6 +136,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Student.java" />
         <option value="$PROJECT_DIR$/src/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/Temperatura.java" />
+        <option value="$PROJECT_DIR$/src/TemperaturaTest.java" />
       </list>
     </option>
   </component>
@@ -128,6 +170,11 @@
             <path>
               <item name="KlasesObjektai" type="b2602c69:ProjectViewProjectNode" />
               <item name="KlasesObjektai" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KlasesObjektai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KlasesObjektai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -140,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543227295388" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543247929921" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -156,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentTest">
+  <component name="RunManager" selected="Application.TemperaturaTest">
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Student" />
       <module name="KlasesObjektai" />
@@ -171,12 +218,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemperaturaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemperaturaTest" />
+      <module name="KlasesObjektai" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Student" />
       <item itemvalue="Application.StudentTest" />
+      <item itemvalue="Application.TemperaturaTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemperaturaTest" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.Student" />
       </list>
@@ -192,7 +248,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543205921863</updated>
-      <workItem from="1543205924584" duration="8639000" />
+      <workItem from="1543205924584" duration="23599000" />
     </task>
     <task id="LOCAL-00001" summary="add KlasesObjektai">
       <created>1543206327964</created>
@@ -201,11 +257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543206327964</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add KlasesObjektai">
+      <created>1543227317556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543227317556</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8639000" />
+    <option name="totallyTimeSpent" value="23599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -217,7 +280,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -255,22 +318,49 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="-184">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
-            <element signature="e#188#189#0" expanded="true" />
             <element signature="e#214#215#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
             <element signature="e#260#261#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
             <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Temperatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/AtsakymasTekstas">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TemperaturaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

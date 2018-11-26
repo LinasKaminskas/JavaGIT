@@ -1,3 +1,5 @@
+package Masyvai.src;
+
 public class TaisytasAntrasPasElementa {
     public static void main(String[] args) {
         int[] myArray = {8, 5, 6, 4, 9, 1, 7};
