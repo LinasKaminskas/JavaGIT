@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="055052ac-3ecc-4965-8b20-d10f53e348be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestAnimal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -191,7 +188,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543325333622" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543326128717" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -231,7 +228,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543306622167</updated>
-      <workItem from="1543306625337" duration="5536000" />
+      <workItem from="1543306625337" duration="5895000" />
     </task>
     <task id="LOCAL-00001" summary="add Inheritance">
       <created>1543314690045</created>
@@ -240,11 +237,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543314690045</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Inheritance">
+      <created>1543325775966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543325775966</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5536000" />
+    <option name="totallyTimeSpent" value="5895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
