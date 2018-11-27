@@ -18,7 +18,7 @@ public class TemperaturaTest {
 
         PrintWriter answer = new PrintWriter ("C:\\Users\\Nemesis\\IdeaProjects\\KlasesObjektai\\res\\AtsakymasTekstas");
         answer.println("Sausis  " + averageSausis + "\n" + "Vasaris  " + averageVasaris + "\n" +"Kovas  " + averageKovas + "\n" + "Bendras matavimu vidurkis:  " + bendrasAverage + "\n");
-        answer.close();;
+        answer.close();
         System.out.println("Writing to the file is complete");
     }
 }

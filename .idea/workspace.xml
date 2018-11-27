@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478ec4a8-a858-4694-8ed2-7daf337e9aee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KlasesObjektai/src/Temperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BT-Java-Samples/BalticTalents-Samples.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPenktasEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPenktasEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KlasesObjektai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Masyvai/src/TaisytasAntrasPasElementa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Masyvai/src/TaisytasAntrasPasElementa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +21,7 @@
     <session id="857722389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="1" />
@@ -185,7 +179,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543247929837" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543248738870" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -301,7 +295,7 @@
       <workItem from="1542598967272" duration="2034000" />
       <workItem from="1542611824335" duration="4120000" />
       <workItem from="1542774492801" duration="511000" />
-      <workItem from="1543205776078" duration="12069000" />
+      <workItem from="1543205776078" duration="12638000" />
     </task>
     <task id="LOCAL-00001" summary="su BT-Java-Simples">
       <created>1542273262942</created>
@@ -335,7 +329,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30210000" />
+    <option name="totallyTimeSpent" value="30779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
