@@ -5,13 +5,13 @@ import Figuros.Data.Circle;
 public abstract class Figuros {
 
     public double circleArea() {
-        double radius, perimeter = Circle.circlePerimeter();
+        double radius, perimeter = Circle.circlePerimeter1();
         radius = perimeter / 2 * Math.PI;
         return Math.PI * (radius * radius);
     }
 
-    public static double circlePerimeter() {
-        double radius, area = 0;
+    public double circlePerimeter() {
+        double radius, area = Circle.circleArea1();
         radius = Math.sqrt(area / Math.PI);
         return 2 * Math.PI * radius;
     }
