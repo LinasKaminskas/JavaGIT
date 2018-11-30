@@ -1,3 +1,5 @@
+package JavaPamokos.src;
+
 import java.util.Scanner;
 
 public class Figuros {
