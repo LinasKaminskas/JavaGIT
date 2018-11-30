@@ -1,3 +1,5 @@
+package KlasesObjektai.src;
+
 import java.math.BigDecimal;
 
 public class Temperatura {

@@ -1,3 +1,5 @@
+package KlasesObjektai.src;
+
 public class Weather {
     private int howMonth;
     private int timePerMonth;

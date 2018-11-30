@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478ec4a8-a858-4694-8ed2-7daf337e9aee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AbstractPolymorpfism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractPolymorpfism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT-Java-Samples/BalticTalents-Samples.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kontrolinis/res/VariantasA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/Temperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/src/WeatherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/src/WeatherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontrolinis/src/Marsrutai.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,55 +61,47 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1647406118">
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="12" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="679" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ciklai/src/UzKetvirtasSwich.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java">
+        <entry file="file://$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Masyvai/src/TaisytasAntrasPasElementa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="572">
+              <caret line="30" column="148" selection-start-line="30" selection-start-column="148" selection-end-line="30" selection-end-column="148" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Activity" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,6 +118,14 @@
         <option value="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" />
         <option value="$PROJECT_DIR$/Ciklai/src/UzPenktasEven.java" />
         <option value="$PROJECT_DIR$/JavaPamokos/src/Figuros.java" />
+        <option value="$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java" />
+        <option value="$PROJECT_DIR$/KlasesObjektai/src/Temperatura.java" />
+        <option value="$PROJECT_DIR$/KlasesObjektai/src/Student.java" />
+        <option value="$PROJECT_DIR$/KlasesObjektai/src/StudentTest.java" />
+        <option value="$PROJECT_DIR$/KlasesObjektai/src/WeatherTest.java" />
+        <option value="$PROJECT_DIR$/KlasesObjektai/src/Weather.java" />
+        <option value="$PROJECT_DIR$/Kontrolinis/src/Marsrutai.java" />
+        <option value="$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java" />
       </list>
     </option>
   </component>
@@ -138,57 +146,99 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAGIT" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaPamokos" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAGIT" type="462c0819:PsiDirectoryNode" />
+              <item name="KlasesObjektai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaPamokos" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAGIT" type="462c0819:PsiDirectoryNode" />
+              <item name="KlasesObjektai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Masyvai" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAGIT" type="462c0819:PsiDirectoryNode" />
+              <item name="Kontrolinis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Masyvai" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAGIT" type="462c0819:PsiDirectoryNode" />
+              <item name="Kontrolinis" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAGIT" type="462c0819:PsiDirectoryNode" />
+              <item name="Kontrolinis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 10 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543465718698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543572204591" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Linas\JavaGit\JAVAGIT\Kontrolinis\res" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,20 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UzPirmasFor (1)">
-    <configuration name="ArrayDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.bt.java.demo.arrays.ArrayDemo1" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.bt.java.demo.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VarianatasA">
     <configuration name="InsertToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.bt.java.demo.arrays.InsertToArray" />
       <module name="IdeaProjects" />
@@ -262,20 +299,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VarianatasA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kontrolinis.src.VarianatasA" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kontrolinis.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ArrayDemo1" />
       <item itemvalue="Application.InsertToArray" />
       <item itemvalue="Application.RemoveFromArray" />
       <item itemvalue="Application.UzPirmasFor" />
       <item itemvalue="Application.UzPirmasFor (1)" />
+      <item itemvalue="Application.VarianatasA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarianatasA" />
         <item itemvalue="Application.UzPirmasFor (1)" />
         <item itemvalue="Application.UzPirmasFor" />
         <item itemvalue="Application.RemoveFromArray" />
         <item itemvalue="Application.InsertToArray" />
-        <item itemvalue="Application.ArrayDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +349,7 @@
       <workItem from="1542774492801" duration="511000" />
       <workItem from="1543205776078" duration="12638000" />
       <workItem from="1543399197253" duration="4755000" />
+      <workItem from="1543565926199" duration="6291000" />
     </task>
     <task id="LOCAL-00001" summary="su BT-Java-Simples">
       <created>1542273262942</created>
@@ -332,12 +383,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35534000" />
+    <option name="totallyTimeSpent" value="43660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25167784" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26439232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -347,16 +398,17 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32814237" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32814237" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32814237" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32814237" />
+      <window_info anchor="right" id="PlantUML" weight="0.32995737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -380,20 +432,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="pakeitimai su IdeaProjectd" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/ReadFromFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/ReadFromFile.java" />
+    <entry file="file://$PROJECT_DIR$/BT-Java-Samples/src/lt/bt/java/basics/WriteToFile.java" />
     <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Uzduotis2.java" />
     <entry file="file://$PROJECT_DIR$/lt/bt/java/basics/ReadFromConsole.java" />
     <entry file="file://$PROJECT_DIR$/lt/bt/java/demo/arrays/ArrayDemo1.java" />
@@ -446,29 +486,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzKetvirtasSwich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="88">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Masyvai/src/TaisytasAntrasPasElementa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="44">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="112" />
+        <state relative-caret-position="44">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -476,6 +509,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzKetvirtasSwich.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="117" column="7" lean-forward="true" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Kontrolinis.src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Kontrolinis.src</OriginalElement>
+          <nodes>
+            <node x="" y="">Kontrolinis.src.VarianatasA</node>
+            <node x="" y="">Kontrolinis.src.Marsrutai</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="55.0" y="51.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KlasesObjektai/src/Temperatura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1012">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KlasesObjektai/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KlasesObjektai/src/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KlasesObjektai/src/Weather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KlasesObjektai/src/WeatherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/src/Marsrutai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/res/DuomenysA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/res/DuomenysAanswer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/res/VariantasA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="30" column="148" selection-start-line="30" selection-start-column="148" selection-end-line="30" selection-end-column="148" />
         </state>
       </provider>
     </entry>

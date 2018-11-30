@@ -1,3 +1,5 @@
+package KlasesObjektai.src;
+
 public class StudentTest {
     public static void main(String[] args) {
         int[] pazymiai = {5, 8, 10, 6, 8};

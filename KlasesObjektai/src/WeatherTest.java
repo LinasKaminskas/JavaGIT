@@ -1,3 +1,5 @@
+package KlasesObjektai.src;
+
 import java.util.Arrays;
 
 public class WeatherTest {
