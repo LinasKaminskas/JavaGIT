@@ -21,14 +21,14 @@ public class VarianatasA {
         }
         System.out.println(" ");
         int sum = arrayElementSum(arr);
-        System.out.println("Atstumai viso: " + sum+ " m");
+        System.out.println("Atstumai viso: " + sum + " m");
         int max = arrayElementsMax(arr);
-        System.out.println("Didziausias atstumas yra: " + max+" m");
+        System.out.println("Didziausias atstumas yra: " + max + " m");
         int min = arrayElementsMin(arr);
-        System.out.println("Maziausias atstumas yra: " + min+" m");
+        System.out.println("Maziausias atstumas yra: " + min + " m");
 
         PrintWriter answerToFile = new PrintWriter("C:\\Users\\Linas\\JavaGit\\JAVAGIT\\Kontrolinis\\res\\DuomenysAanswer.txt");
-        answerToFile.println("Atstumai viso: "+sum +" m"+ "\n" + "Didziausias atstumas yra: " + max + " m"+"\n"+ "Maziausias atstumas yra: "+min+" m");
+        answerToFile.println("Atstumai viso: " + sum + " m" + "\n" + "Didziausias atstumas yra: " + max + " m" + "\n" + "Maziausias atstumas yra: " + min + " m");
         answerToFile.close();
         System.out.println(" ");
         System.out.println("Writing to file is complete");
@@ -50,11 +50,12 @@ public class VarianatasA {
         }
         return max;
     }
-    public static int arrayElementsMin(int[] arr){
-        int min =Integer.MAX_VALUE;
-        for (int duomenys : arr){
+
+    public static int arrayElementsMin(int[] arr) {
+        int min = Integer.MAX_VALUE;
+        for (int duomenys : arr) {
             if (duomenys < min)
-                min =duomenys;
+                min = duomenys;
         }
         return min;
     }
