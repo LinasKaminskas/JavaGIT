@@ -1,0 +1,3 @@
+Atstumai viso: 11100 m
+Didziausias atstumas yra: 2300 m
+Maziausias atstumas yra: 700 m
