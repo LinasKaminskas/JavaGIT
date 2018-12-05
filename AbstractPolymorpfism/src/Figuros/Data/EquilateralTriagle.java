@@ -1,6 +1,6 @@
 package Figuros.Data;
 
-import Figuros.AbstractClass.Figuros;
+import AbstractPolymorpfism.src.Figuros.AbstractClass.Figuros;
 
 public class EquilateralTriagle extends Figuros {
 

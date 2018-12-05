@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class VarianatasA {
     public static void main(String[] args) throws FileNotFoundException {
-        File marsrutai = new File("C:\\Users\\Linas\\JavaGit\\JAVAGIT\\Kontrolinis\\res\\DuomenysA.txt");
+        File marsrutai = new File("C:\\Users\\Nemesis\\IdeaProjects\\Kontrolinis\\res\\DuomenysA.txt");
         Scanner sca = new Scanner(marsrutai);
         int[] arr = new int[sca.nextInt()];
         for (int i = 0; i < arr.length; i++) {
@@ -27,7 +27,7 @@ public class VarianatasA {
         int min = arrayElementsMin(arr);
         System.out.println("Maziausias atstumas yra: " + min + " m");
 
-        PrintWriter answerToFile = new PrintWriter("C:\\Users\\Linas\\JavaGit\\JAVAGIT\\Kontrolinis\\res\\DuomenysAanswer.txt");
+        PrintWriter answerToFile = new PrintWriter("C:\\Users\\Nemesis\\IdeaProjects\\Kontrolinis\\res\\DuomenysAanswer.txt");
         answerToFile.println("Atstumai viso: " + sum + " m" + "\n" + "Didziausias atstumas yra: " + max + " m" + "\n" + "Maziausias atstumas yra: " + min + " m");
         answerToFile.close();
         System.out.println(" ");

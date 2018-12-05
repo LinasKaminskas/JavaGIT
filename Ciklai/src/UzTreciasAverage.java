@@ -1,33 +1,27 @@
-import java.io.*;
+package Ciklai.src;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.NoSuchElementException;
+import java.util.Scanner;
+
+//3. Suskaičiuoti vidurkį iš duomenų esančių tekstiniam faile. Rezultatą
+//išsaugoti rezultatų faile
 
 public class UzTreciasAverage {
-    public static void main(String[] args) throws IOException {
-        try {
-            String filePath = "C:\\Users\\Nemesis\\IdeaProjects\\Ciklai\\res\\NaujasTekstas";
-            File file = new File(filePath);
-            BufferedReader br = new BufferedReader(new FileReader(file));
-            int sum = 0;
-            int count = 0;
-            String line = br.readLine();
-            while (line != null) {
-                sum += Integer.parseInt(line); //String konvertuojamas i int
-                count++;
-                line = br.readLine();
-            }
-            br.close();
-            double average = (double) sum / count;
-            PrintWriter answer = new PrintWriter("C:\\Users\\Nemesis\\IdeaProjects\\Ciklai\\res\\AverageTekstas");
-            answer.print(average);
-            answer.println();
-            answer.close();
-            System.out.println("Done");
-
-            System.out.println("Sum: " + sum + " " + "Count: " + count + " " + "Average: " + average);
+    public static void main(String[] args) throws Exception {
+        FileReader fr = new FileReader("C:\\Users\\Nemesis\\IdeaProjects\\Ciklai\\res\\NaujasTekstas");
+        Scanner scan = new Scanner(fr);
+        while (scan.hasNextInt()){
+            System.out.println(scan.nextInt());
+            String data ="C:\\Users\\Nemesis\\IdeaProjects\\Ciklai\\res\\NaujasTekstas";
+            String vardas = data.substring(0,10);
+            System.out.println(vardas);
         }
-        catch (IOException e){
-            e.printStackTrace();
         }
-    }
+        fr.close();
     }
 
 

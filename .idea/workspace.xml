@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478ec4a8-a858-4694-8ed2-7daf337e9aee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ArrayList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/KintamiejiSalyginiaiSakiniai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kontrolinis/res/PadangosDuomenys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kontrolinis/src/Padangos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kontrolinis/src/PagangosMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractPolymorpfism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractPolymorpfism/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/EquilateralTriagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/EquilateralTriagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/FigurosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/FigurosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Java-Samples/BalticTalents-Samples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/res/NaujasTekstas" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/res/NaujasTekstas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzAntrasFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/JavaPamokos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/ArrayList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/out/production/JavaPamokos/Figuros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/out/production/JavaPamokos/NuskaitymasIsEkrano.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/out/production/JavaPamokos/Uzduotis2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/src/Figuros.java" beforeDir="false" afterPath="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/src/Figuros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java" beforeDir="false" afterPath="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/src/NuskaitymasIsEkrano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlasesObjektai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KlasesObjektai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontrolinis/res/DuomenysAanswer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kontrolinis/res/DuomenysAanswer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Masyvai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Masyvai/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,36 +60,48 @@
     <session id="857722389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
+          <entry key="NaujasTekstas" value="2" />
+          <entry key="PadangosDuomenys" value="1" />
+          <entry key="Tekstas" value="1" />
+          <entry key="java" value="42" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="43" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="JAVA" value="1356" />
+          <entry key="PLAIN_TEXT" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="PadangosDuomenys" value="113" />
+          <entry key="java" value="1175" />
           <entry key="txt" value="45" />
         </counts>
       </usages-collector>
@@ -78,56 +132,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ciklai/res/NaujasTekstas">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kontrolinis/src/Padangos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding>
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kontrolinis/src/PagangosMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="525">
+              <caret line="29" column="123" selection-start-line="29" selection-start-column="123" selection-end-line="29" selection-end-column="123" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/FigurosTest.java">
+        <entry file="file://$PROJECT_DIR$/Ciklai/src/UzAntrasFileWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="231">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Square.java">
+        <entry file="file://$PROJECT_DIR$/Kontrolinis/res/PadangosDuomenys">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/EquilateralTriagle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -138,6 +211,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Activity" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -152,8 +227,6 @@
         <option value="$PROJECT_DIR$/Funkcijos/src/UzPirmaAverageArray.java" />
         <option value="$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java" />
         <option value="$PROJECT_DIR$/Masyvai/src/TaisytasAntrasPasElementa.java" />
-        <option value="$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java" />
-        <option value="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" />
         <option value="$PROJECT_DIR$/Ciklai/src/UzPenktasEven.java" />
         <option value="$PROJECT_DIR$/JavaPamokos/src/Figuros.java" />
         <option value="$PROJECT_DIR$/KlasesObjektai/src/TemperaturaTest.java" />
@@ -163,7 +236,24 @@
         <option value="$PROJECT_DIR$/KlasesObjektai/src/WeatherTest.java" />
         <option value="$PROJECT_DIR$/KlasesObjektai/src/Weather.java" />
         <option value="$PROJECT_DIR$/Kontrolinis/src/Marsrutai.java" />
+        <option value="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java" />
+        <option value="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/FigurosTest.java" />
+        <option value="$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Square.java" />
+        <option value="$PROJECT_DIR$/Kintamieji, salyginiai sakiniai/src/NuskaitymasIsEkrano.java" />
+        <option value="$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java" />
+        <option value="$PROJECT_DIR$/Kintamieji, salyginiai sakiniai/src/Figuros.java" />
+        <option value="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/src/NuskaitymasIsEkrano.java" />
+        <option value="$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/src/Figuros.java" />
+        <option value="$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java" />
+        <option value="$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java" />
+        <option value="$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java" />
+        <option value="$PROJECT_DIR$/Ciklai/src/UzAntrasFileReader.java" />
         <option value="$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java" />
+        <option value="$PROJECT_DIR$/Ciklai/src/UzAntrasFileWriter.java" />
+        <option value="$PROJECT_DIR$/Kontrolinis/res/PadangosDuomenys" />
+        <option value="$PROJECT_DIR$/Kontrolinis/src/Padangos.java" />
+        <option value="$PROJECT_DIR$/Kontrolinis/src/PagangosMain.java" />
+        <option value="$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java" />
       </list>
     </option>
   </component>
@@ -173,7 +263,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -188,30 +278,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVAGIT" type="462c0819:PsiDirectoryNode" />
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JAVAGIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Kontrolinis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Kontrolinis" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Kontrolinis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543582024719" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543912786683" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BT-Java-Samples" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -220,7 +326,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Kintamieji, salyginiai sakiniai.src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nemesis\IdeaProjects\KintamiejiSalyginiaiSakiniai\src" />
+      <recent name="C:\Users\Nemesis\IdeaProjects\Kintamieji, salyginiai sakiniai\src" />
       <recent name="C:\Users\Linas\JavaGit\JAVAGIT\Kontrolinis\res" />
     </key>
   </component>
@@ -236,13 +350,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VarianatasA">
-    <configuration name="InsertToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.bt.java.demo.arrays.InsertToArray" />
+  <component name="RunManager" selected="Application.UzTreciasAverage">
+    <configuration name="PagangosMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kontrolinis.src.PagangosMain" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.bt.java.demo.arrays.*" />
+          <option name="PATTERN" value="Kontrolinis.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,21 +364,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.bt.java.demo.arrays.RemoveFromArray" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.bt.java.demo.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UzPirmasFor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ciklai.src.UzPirmasFor" />
+    <configuration name="UzAntrasFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ciklai.src.UzAntrasFileWriter" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
@@ -276,9 +377,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UzPirmasFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UzPirmasFor" />
+    <configuration name="UzPirmasDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ciklai.src.UzPirmasDoWhile" />
       <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ciklai.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UzTreciasAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ciklai.src.UzTreciasAverage" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ciklai.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,19 +417,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InsertToArray" />
-      <item itemvalue="Application.RemoveFromArray" />
-      <item itemvalue="Application.UzPirmasFor" />
-      <item itemvalue="Application.UzPirmasFor (1)" />
       <item itemvalue="Application.VarianatasA" />
+      <item itemvalue="Application.UzPirmasDoWhile" />
+      <item itemvalue="Application.UzTreciasAverage" />
+      <item itemvalue="Application.UzAntrasFileWriter" />
+      <item itemvalue="Application.PagangosMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UzTreciasAverage" />
+        <item itemvalue="Application.PagangosMain" />
+        <item itemvalue="Application.UzAntrasFileWriter" />
         <item itemvalue="Application.VarianatasA" />
-        <item itemvalue="Application.UzPirmasFor (1)" />
-        <item itemvalue="Application.UzPirmasFor" />
-        <item itemvalue="Application.RemoveFromArray" />
-        <item itemvalue="Application.InsertToArray" />
+        <item itemvalue="Application.UzPirmasDoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -335,6 +455,14 @@
       <workItem from="1543399197253" duration="4755000" />
       <workItem from="1543565926199" duration="7538000" />
       <workItem from="1543617488748" duration="758000" />
+      <workItem from="1543623176774" duration="10000" />
+      <workItem from="1543630550828" duration="55000" />
+      <workItem from="1543803174874" duration="1109000" />
+      <workItem from="1543804972166" duration="4322000" />
+      <workItem from="1543816805251" duration="10719000" />
+      <workItem from="1543903210104" duration="99000" />
+      <workItem from="1543903442529" duration="3821000" />
+      <workItem from="1543977341547" duration="1346000" />
     </task>
     <task id="LOCAL-00001" summary="su BT-Java-Simples">
       <created>1542273262942</created>
@@ -389,12 +517,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45665000" />
+    <option name="totallyTimeSpent" value="67250000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26705757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28590605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -404,7 +532,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32814237" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32765958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -413,7 +541,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32814237" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32814237" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -446,16 +574,6 @@
     <entry file="file://$PROJECT_DIR$/lt/bt/java/demo/arrays/ArrayDemo1.java" />
     <entry file="file://$PROJECT_DIR$/lt/bt/java/demo/arrays/RemoveFromArray.java" />
     <entry file="file://$PROJECT_DIR$/lt/bt/java/demo/arrays/InsertToArray.java" />
-    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ciklai/src/UzPenktasEven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-21">
@@ -484,38 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Masyvai/src/TaisytasAntrasPasElementa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -526,13 +616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="117" column="7" lean-forward="true" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java" />
     <entry file="uml://JAVA/Kontrolinis.src">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -595,21 +679,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kontrolinis/res/DuomenysA.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kontrolinis/res/DuomenysAanswer.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Kontrolinis/res/VariantasA.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AbstractPolymorpfism/src/Figuros/Data/Square.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -643,6 +717,127 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/Figuros.java" />
+    <entry file="file://$PROJECT_DIR$/JavaPamokos/src/NuskaitymasIsEkrano.java" />
+    <entry file="file://$PROJECT_DIR$/Kintamieji, salyginiai sakiniai/src/NuskaitymasIsEkrano.java" />
+    <entry file="file://$PROJECT_DIR$/Kintamieji, salyginiai sakiniai/src/Figuros.java" />
+    <entry file="file://$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/src/NuskaitymasIsEkrano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KintamiejiSalyginiaiSakiniai/src/Figuros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Masyvai/src/UzPirmaAverageArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzPirmasWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzPirmasFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzPirmasDoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzAntrasFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/res/Tekstas">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/res/DuomenysA.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/JavaTeorija/studentai/Linas/VarianatasA.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzTreciasAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/res/NaujasTekstas">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/src/Padangos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/src/PagangosMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/src/VarianatasA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="29" column="123" selection-start-line="29" selection-start-column="123" selection-end-line="29" selection-end-column="123" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ciklai/src/UzAntrasFileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kontrolinis/res/PadangosDuomenys">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>

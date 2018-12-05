@@ -1,3 +1,8 @@
+package Ciklai.src;
+
+//2. Parašyti programa kuri nuskaitytų iš failo duomenis ir įrašytų į kitą
+//failą.
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

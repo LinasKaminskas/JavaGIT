@@ -1,6 +1,15 @@
-package JavaPamokos.src;
+package KintamiejiSalyginiaiSakiniai.src;
 
 import java.util.Scanner;
+
+
+//Parašyti programa kuri suskaičiuotų:
+//1. Trikampio plotą
+//2. Stačiakampio plotą
+//3. Apskritimo plotą
+//Kai kraštinės ilgis įvedamas į konsolę.
+//Parašyti programa kuri išspręstų kvadratinę lygtį.
+//Parašytų ar įvestas skaičius yra lyginis
 
 public class Figuros {
     public static void main(String[] args) {

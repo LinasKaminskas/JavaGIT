@@ -1,3 +1,5 @@
+package KintamiejiSalyginiaiSakiniai.src;
+
 import java.util.Scanner;
 
 public class NuskaitymasIsEkrano {

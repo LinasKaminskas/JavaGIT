@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b93c5bef-3929-4999-9013-3907ebdbf6ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Kontrolinis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kontrolinis/src/Marsrutai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kontrolinis/src/VarianatasA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/FigurosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/FigurosTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kontrolinis/src/Marsrutai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kontrolinis/src/Marsrutai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +18,7 @@
     <session id="-1318777831">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -294,6 +290,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

@@ -1,6 +1,6 @@
-package Figuros.Data;
+package AbstractPolymorpfism.src.Figuros.Data;
 
-import Figuros.AbstractClass.Figuros;
+import AbstractPolymorpfism.src.Figuros.AbstractClass.Figuros;
 
 public class Square extends Figuros {
     @Override
