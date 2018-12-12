@@ -20,8 +20,9 @@ public class UzTreciasAverage {
             String vardas = data.substring(0,10);
             System.out.println(vardas);
         }
-        }
         fr.close();
+
+    }
     }
 
 

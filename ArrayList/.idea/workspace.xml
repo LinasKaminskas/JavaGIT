@@ -2,48 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea411fa-dae0-455d-b953-60c288032782" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KintamiejiSalyginiaiSakiniai/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KintamiejiSalyginiaiSakiniai/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KintamiejiSalyginiaiSakiniai/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KintamiejiSalyginiaiSakiniai/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KintamiejiSalyginiaiSakiniai/KintamiejiSalyginiaiSakiniai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kontrolinis/res/PadangosDuomenys" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kontrolinis/src/Padangos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kontrolinis/src/PagangosMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kontrolinis/src/PadangosMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/AbstractClass/Figuros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/EquilateralTriagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/EquilateralTriagle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/Data/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/FigurosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractPolymorpfism/src/Figuros/FigurosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ciklai/res/NaujasTekstas" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/res/NaujasTekstas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzAntrasFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzAntrasFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzAntrasFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzAntrasFileWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzPirmasDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzPirmasDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzPirmasFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzPirmasFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzPirmasWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzPirmasWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ciklai/src/UzTreciasAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ciklai/src/UzTreciasAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/JavaPamokos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/out/production/JavaPamokos/Figuros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/out/production/JavaPamokos/NuskaitymasIsEkrano.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/out/production/JavaPamokos/Uzduotis2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/src/Figuros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KintamiejiSalyginiaiSakiniai/src/Figuros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaPamokos/src/NuskaitymasIsEkrano.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KintamiejiSalyginiaiSakiniai/src/NuskaitymasIsEkrano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kontrolinis/res/DuomenysAanswer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kontrolinis/res/DuomenysAanswer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kontrolinis/src/VarianatasA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kontrolinis/src/VarianatasA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Masyvai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kontrolinis/src/PagangosMain.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +19,16 @@
     <session id="-1948215902">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -84,13 +55,24 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ArrayList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -116,28 +98,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543989895741</updated>
-      <workItem from="1543989898591" duration="592000" />
+      <workItem from="1543989898591" duration="1575000" />
+      <workItem from="1544076584883" duration="872000" />
+      <workItem from="1544408417142" duration="437000" />
     </task>
+    <task id="LOCAL-00001" summary="add ArrayList">
+      <created>1543990532172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543990532172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="592000" />
+    <option name="totallyTimeSpent" value="2884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20872483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -145,15 +133,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +153,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrayList" />
   </component>
   <component name="masterDetails">
     <states>
