@@ -25,27 +25,66 @@ public class Nuskaitymas {
         br.close();
         return zaislas; //dar nezinau ar teisingai
     }
+
     private static String readVaikoCharakteristika() throws Exception {
-        String filePath ="C:\\Users\\Nemesis\\IdeaProjects\\KaleduSenis\\res\\VaikoCharakteristika";
+        String filePath = "C:\\Users\\Nemesis\\IdeaProjects\\KaleduSenis\\res\\VaikoCharakteristika";
         return filePath;
     }
-    public static List<VaikoCharakteristika>vaikoCharakteristika() throws Exception{
-        File file=new File(readVaikoCharakteristika());
-        BufferedReader br =new BufferedReader(new FileReader(file));
+
+    public static List<VaikoCharakteristika> vaikoCharakteristika() throws Exception {
+        File file = new File(readVaikoCharakteristika());
+        BufferedReader br = new BufferedReader(new FileReader(file));
         String line;
-        List<VaikoCharakteristika>charakteris=new LinkedList<>();
-        while ((line=br.readLine()) !=null){
-            String[] values =line.split(",");
-            VaikoCharakteristika vaikoCharakteristika=new VaikoCharakteristika();
+        List<VaikoCharakteristika> charakteris = new LinkedList<>();
+        while ((line = br.readLine()) != null) {
+            String[] values = line.split(",");
+            VaikoCharakteristika vaikoCharakteristika = new VaikoCharakteristika();
             vaikoCharakteristika.setVardas(values[0]);
             vaikoCharakteristika.setPavarde(values[1]);
             vaikoCharakteristika.setArBuvoGeras(values[2]);
-            System.out.println("Vardas Pavarde: "+vaikoCharakteristika.getVardas() + " "+ vaikoCharakteristika.getPavarde());
-            System.out.println("Ar buvo geras: "+vaikoCharakteristika.getArBuvoGeras());
+            System.out.println("Vardas Pavarde: " + vaikoCharakteristika.getVardas() + " " + vaikoCharakteristika.getPavarde());
+            System.out.println("Ar buvo geras: " + vaikoCharakteristika.getArBuvoGeras());
         }
         return charakteris;
     }
+
+    private static String readVaikuNorai() throws Exception {
+        String filePath = "C:\\Users\\Nemesis\\IdeaProjects\\KaleduSenis\\res\\VaikuNorai";
+        return filePath;
+    }
+
+    public static List<VaikuNorai> vaikuNorai() throws Exception {
+        File file = new File(readVaikuNorai());
+        BufferedReader br = new BufferedReader(new FileReader(file));
+        String line;
+        List<VaikuNorai> norai = new LinkedList<>();
+        while ((line = br.readLine()) != null) {
+            String[] values = line.split(", ");
+            int metaiInt=Integer.parseInt(values[2]);  //keitimas metu String to int
+            VaikuNorai vaikuNorai = new VaikuNorai();
+            if (metaiInt<15){
+                vaikuNorai.setVardas(values[0]);
+                vaikuNorai.setPavarde(values[1]);
+                vaikuNorai.setMetai(metaiInt);
+                vaikuNorai.setAdresas(values[3]);
+                vaikuNorai.setKaleduNoras(values[4]);
+                norai.add(vaikuNorai);
+            } else {
+                System.out.println("Daugiau nei 15 metu, norus vykdo tevai");
+
+
+            }
+            System.out.println("Vardas Pavarde: " + vaikuNorai.getVardas() + " " + vaikuNorai.getPavarde());
+            System.out.println("Kiek metu: " + vaikuNorai.getMetai());
+            System.out.println("Adresas: " + vaikuNorai.getAdresas());
+            System.out.println("Kaledu noras: " + vaikuNorai.getKaleduNoras());
+        }
+        return norai;
+    }
 }
+
+
+
 
 
 

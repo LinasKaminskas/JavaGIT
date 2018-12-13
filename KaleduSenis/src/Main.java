@@ -3,5 +3,7 @@ public class Main {
         Nuskaitymas.zaisloPavadinimas();
         System.out.println("--------------------------------------");
         Nuskaitymas.vaikoCharakteristika();
+        System.out.println("--------------------------------------");
+        Nuskaitymas.vaikuNorai();
     }
 }
