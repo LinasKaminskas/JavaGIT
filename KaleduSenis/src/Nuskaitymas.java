@@ -62,7 +62,7 @@ public class Nuskaitymas {
             String[] values = line.split(", ");
             int metaiInt=Integer.parseInt(values[2]);  //keitimas metu String to int
             VaikuNorai vaikuNorai = new VaikuNorai();
-            if (metaiInt<15){
+            if (metaiInt<15){ //jei virs 15 metu dovanos neteikti
                 vaikuNorai.setVardas(values[0]);
                 vaikuNorai.setPavarde(values[1]);
                 vaikuNorai.setMetai(metaiInt);
@@ -70,7 +70,7 @@ public class Nuskaitymas {
                 vaikuNorai.setKaleduNoras(values[4]);
                 norai.add(vaikuNorai);
             } else {
-                System.out.println("Daugiau nei 15 metu, norus vykdo tevai");
+                System.out.println("Daugiau nei 15 metu");
 
 
             }
@@ -81,6 +81,21 @@ public class Nuskaitymas {
         }
         return norai;
     }
+    public  static char[] UzsalymaiZaislu() throws Exception{
+        File file = new File(readVaikuNorai());
+        BufferedReader br = new BufferedReader(new FileReader(file));
+        String line;
+        List<VaikuNorai>norai = new LinkedList<>();
+        while ((line = br.readLine()) != null) {
+            String[] values = line.split(", ");
+            VaikuNorai vaikuNorai =new VaikuNorai();
+            vaikuNorai.setKaleduNoras(values[4]);
+            vaikuNorai.getKaleduNoras();
+            System.out.println(vaikuNorai.getKaleduNoras());
+        }
+        return UzsalymaiZaislu();
+    }
+
 }
 
 

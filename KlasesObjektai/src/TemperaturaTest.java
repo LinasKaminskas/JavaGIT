@@ -9,13 +9,13 @@ public class TemperaturaTest {
         double[] vasaris = {-16, -14.5, -11, -10.3, -3.5, 0};
         double[] kovas = {-3, -2.5, 0, 5, 9.5, 11.2};
 
-        double averageSausis = Temperatura.sausisAverage(sausis);
+        double averageSausis = KlasesObjektai.src.Temperatura.sausisAverage(sausis);
         System.out.println("Sausis  " + averageSausis);
-        double averageVasaris = Temperatura.vasarisAverage(vasaris);
+        double averageVasaris = KlasesObjektai.src.Temperatura.vasarisAverage(vasaris);
         System.out.println("Vasaris  " + averageVasaris);
-        double averageKovas = Temperatura.kovasAverage(kovas);
+        double averageKovas = KlasesObjektai.src.Temperatura.kovasAverage(kovas);
         System.out.println("Kovas  " + averageKovas);
-        double bendrasAverage = Temperatura.bendrasAverage(sausis, vasaris, kovas);
+        double bendrasAverage = KlasesObjektai.src.Temperatura.bendrasAverage(sausis, vasaris, kovas);
         System.out.println("Bendras matavimu vidurkis:  " + bendrasAverage);
 
         PrintWriter answer = new PrintWriter ("C:\\Users\\Nemesis\\IdeaProjects\\KlasesObjektai\\res\\AtsakymasTekstas");
