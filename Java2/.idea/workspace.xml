@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76d02b9b-4801-42d6-832b-0f7459b42530" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KlasesObjektai/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaleduSenis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KaleduSenis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaleduSenis/res/VaikuNorai" beforeDir="false" afterPath="$PROJECT_DIR$/../KaleduSenis/res/VaikuNorai" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaleduSenis/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaleduSenis/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaleduSenis/src/Nuskaitymas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaleduSenis/src/Nuskaitymas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KlasesObjektai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/out/production/KlasesObjektai/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/out/production/KlasesObjektai/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/out/production/KlasesObjektai/Temperatura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/out/production/KlasesObjektai/TemperaturaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/out/production/KlasesObjektai/Weather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/out/production/KlasesObjektai/WeatherTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KlasesObjektai/src/TemperaturaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KlasesObjektai/src/TemperaturaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,10 +21,65 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Setai.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#977#978#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
+                <element signature="e#1472#1473#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Setai.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -69,6 +108,11 @@
               <item name="Java2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -78,8 +122,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545130298619" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,15 +149,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545120334945</updated>
-      <workItem from="1545120338539" duration="610000" />
+      <workItem from="1545120338539" duration="2397000" />
     </task>
+    <task id="LOCAL-00001" summary="addNew">
+      <created>1545121159010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545121159010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="610000" />
+    <option name="totallyTimeSpent" value="2397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -148,6 +203,36 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="addNew" />
+    <option name="LAST_COMMIT_MESSAGE" value="addNew" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Setai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
