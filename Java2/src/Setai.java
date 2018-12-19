@@ -59,9 +59,9 @@ class Trikampis {
     private List<Double> SortTriagle() {
         List<Double> triagleList = Arrays.asList(a, b, c);
         triagleList.sort(Comparator.naturalOrder());
-        setA(triagleList.get(0));
-        setB(triagleList.get(1));
-        setC(triagleList.get(2));
+//        setA(triagleList.get(0));
+//        setB(triagleList.get(1));
+//        setC(triagleList.get(2));
         System.out.println("Viso skirtingu trikampiu : " + triagleList);
         return triagleList;
     }
@@ -79,6 +79,7 @@ class Trikampis {
     @Override
     public int hashCode() {
         return Objects.hash(SortTriagle());
+
     }
 
 }
