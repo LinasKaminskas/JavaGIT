@@ -62,7 +62,7 @@ class Trikampis {
         setA(triagleList.get(0));
         setB(triagleList.get(1));
         setC(triagleList.get(2));
-        System.out.println("Viso skirtingu trikampiu surusiavus: " + triagleList);
+        System.out.println("Viso skirtingu trikampiu : " + triagleList);
         return triagleList;
     }
 
