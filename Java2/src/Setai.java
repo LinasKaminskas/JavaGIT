@@ -1,8 +1,6 @@
 
-import java.util.HashSet;
-import java.util.Objects;
-import java.util.Set;
-import java.util.TreeSet;
+import java.lang.reflect.Array;
+import java.util.*;
 
 /**
  * HelloWorld
@@ -57,6 +55,16 @@ class Trikampis {
         this.c = c;
     }
 
+    private List<Double> SortTriagle() {
+        List<Double> triagleList = Arrays.asList(a, b, c);
+        triagleList.sort(Comparator.naturalOrder());
+        setA(triagleList.get(0));
+        setB(triagleList.get(1));
+        setC(triagleList.get(2));
+        System.out.println("Viso skirtingu trikampiu surusiavus: " + triagleList);
+        return triagleList;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -69,6 +77,7 @@ class Trikampis {
 
     @Override
     public int hashCode() {
-        return Objects.hash(a, b, c);
+        return Objects.hash(SortTriagle());
     }
+    
 }
