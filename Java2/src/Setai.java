@@ -79,5 +79,5 @@ class Trikampis {
     public int hashCode() {
         return Objects.hash(SortTriagle());
     }
-    
+
 }
