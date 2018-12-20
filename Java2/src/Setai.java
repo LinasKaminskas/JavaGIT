@@ -56,13 +56,10 @@ class Trikampis {
         this.c = c;
     }
 
-    private List<Double> SortTriagle() {
+    private List<Double> sortTriagle() {
         List<Double> triagleList = Arrays.asList(a, b, c);
         triagleList.sort(Comparator.naturalOrder());
-//        setA(triagleList.get(0));
-//        setB(triagleList.get(1));
-//        setC(triagleList.get(2));
-        System.out.println("Viso skirtingu trikampiu : " + triagleList);
+        System.out.println(triagleList);
         return triagleList;
     }
 
@@ -71,14 +68,18 @@ class Trikampis {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Trikampis trikampis = (Trikampis) o;
-        return Double.compare(trikampis.a, a) == 0 &&
-                Double.compare(trikampis.b, b) == 0 &&
-                Double.compare(trikampis.c, c) == 0;
+
+        List<Double> t1 = this.sortTriagle();
+        List<Double> t2 = trikampis.sortTriagle();
+
+        return Double.compare(t1.get(0), t2.get(0)) == 0 &&
+                Double.compare(t1.get(1), t2.get(1)) == 0 &&
+                Double.compare(t1.get(2), t2.get(2)) == 0;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(SortTriagle());
+        return Objects.hash(sortTriagle());
 
     }
 
