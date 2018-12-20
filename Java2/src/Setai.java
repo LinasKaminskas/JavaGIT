@@ -11,6 +11,11 @@ public class Setai {
 
     public static void main(String[] args) {
 
+        Object object= new Object();
+        int hCode;
+        hCode=object.hashCode();
+        System.out.println(hCode);
+
         Set<Trikampis> trikampiai = new HashSet<>();
 
         trikampiai.add(new Trikampis(3, 4, 5));
