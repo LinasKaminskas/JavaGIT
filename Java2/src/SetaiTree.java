@@ -1,40 +1,31 @@
 package Java2.src;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
-/**
- * HelloWorld
- * Created by valdas on 2018-12-18.
- */
-public class Setai {
-
+public class SetaiTree {
     public static void main(String[] args) {
 
-        Object object= new Object();
-        int hCode;
-        hCode=object.hashCode();
-        System.out.println(hCode);
+        TreeSet<Trikampis1> trikampiai = new TreeSet<>();
+        trikampiai.add(new Trikampis1(3, 4, 5));
+        trikampiai.add(new Trikampis1(3, 3, 3));
+        trikampiai.add(new Trikampis1(3, 5, 4));
 
-        Set<Trikampis> trikampiai = new HashSet<>();
 
-        trikampiai.add(new Trikampis(3, 4, 5));
-        trikampiai.add(new Trikampis(3, 3, 3));
-        trikampiai.add(new Trikampis(3, 5, 4));
 
-        System.out.println("Viso skirtingu trikampiu " + trikampiai.size());
+        System.out.println();
     }
-
 }
 
-class Trikampis {
-
+class Trikampis1 implements Comparable <Trikampis1> {
     private double a, b, c;
 
-    public Trikampis(double a, double b, double c) {
+
+    public Trikampis1(double a, double b, double c) {
         this.a = a;
         this.b = b;
         this.c = c;
+
+
     }
 
     public double getA() {
@@ -60,7 +51,6 @@ class Trikampis {
     public void setC(double c) {
         this.c = c;
     }
-
     List<Double> sortTriagle() {
         List<Double> triagleList = Arrays.asList(a, b, c);
         triagleList.sort(Comparator.naturalOrder());
@@ -86,6 +76,16 @@ class Trikampis {
     public int hashCode() {
         return Objects.hash(sortTriagle());
 
+//    @Override
+//    public int compareTo(Trikampis1 o) {
+//        int cmp = Double.compare(this.a, o.a);
+//        if (cmp != 0) return cmp;
+//        return cmp;
     }
 
+    @Override
+    public int compareTo(Trikampis1 o) {
+        return 0;
+    }
 }
+
