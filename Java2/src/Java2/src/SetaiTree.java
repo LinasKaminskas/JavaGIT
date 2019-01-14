@@ -62,7 +62,7 @@ class Trikampis1 implements Comparable <Trikampis1> {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Trikampis trikampis = (Trikampis) o;
+        Java2.src.Trikampis trikampis = (Java2.src.Trikampis) o;
 
         List<Double> t1 = this.sortTriagle();
         List<Double> t2 = trikampis.sortTriagle();
