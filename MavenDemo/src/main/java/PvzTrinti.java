@@ -31,13 +31,13 @@ public class PvzTrinti {
 }
 
 class A1 {
-    String laukas1;
+    //String laukas1;
     A2 laukas2;
 
     @Override
     public String toString() {
         return "A1{" +
-                "laukas1='" + laukas1 + '\'' +
+                //"laukas1='" + laukas1 + '\'' +
                 ", laukas2=" + laukas2 +
                 '}';
     }

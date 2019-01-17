@@ -18,7 +18,7 @@ public class URLserializeMaven {
         URI uri = new URI("https",
                 "geocoder.api.here.com",
                 "/6.2/geocode.json",
-                "app_id=EZo8I9lfNpIFYclKBDzf&app_code=l7dnthyCJxm2Z6KM2qynmA&searchtext=" + address+ "&searchtext=PostalCode:",
+                "app_id=EZo8I9lfNpIFYclKBDzf&app_code=l7dnthyCJxm2Z6KM2qynmA&searchtext=" + address,
                 null);
 
         System.out.println(uri);
@@ -37,12 +37,10 @@ public class URLserializeMaven {
                 System.out.println(decodedString);
                 ou.write(decodedString + "\n");
             }
-
-//            String jsonString = decodedString.toString();
-//            Gson gson = new Gson();
-//            Pcode pcode= gson.fromJson(jsonString, Pcode.class);
-//            System.out.println(pcode);
-
+            String str = "{\"MetaInfo\":{\"Timestamp\":2019-01-14T07:30:26.014+0000}}";
+            Gson gson = new Gson();
+            A1a a1a= gson.fromJson(str, A1a.class);
+            System.out.println(a1a.MetaInfo.Timestamp);
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -50,13 +48,23 @@ public class URLserializeMaven {
     }
 }
 
-class Pcode {
-    String MetaInfo;
+class A1a {
+    A2a MetaInfo;
 
     @Override
     public String toString() {
-        return "Pcode{" +
-                "MetaInfo='" + MetaInfo + '\'' +
+        return "A1a{" +
+                "MetaInfo=" + MetaInfo +
+                '}';
+    }
+}
+class A2a {
+    int Timestamp;
+
+    @Override
+    public String toString() {
+        return "A2a{" +
+                "Timestamp='" + Timestamp +
                 '}';
     }
 }

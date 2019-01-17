@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cdfa48-ebb9-4ba2-9613-7b8d8854274d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java2/src/Java2/src/URLserializeMano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java2/src/JsonFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java2/src/URLserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java2/src/urlOutput" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bandymas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PvzTrinti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/URLserializeMaven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/urlOutput" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java2/Java2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java2/Java2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java2/src/SetaiTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java2/src/Java2/src/SetaiTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bandymas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PvzTrinti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PvzTrinti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/URLserializeMaven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/URLserializeMaven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/urlOutput" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/urlOutput" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Bandymas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pcode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/URLserializeMaven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/URLserializeMaven.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,27 +23,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Bandymas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding>
-                <element signature="e#67#68#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="343">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -53,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/URLserializeMaven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="714">
+              <caret line="39" column="83" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="83" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/PvzTrinti.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -74,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/urlOutput">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" lean-forward="true" selection-end-line="1" />
+            <state>
+              <caret selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -89,16 +72,21 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PostalCode</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Bandymas.java" />
         <option value="$PROJECT_DIR$/src/main/java/PvzTrinti.java" />
         <option value="$PROJECT_DIR$/src/main/java/URLserializeMaven.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -142,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,19 +157,28 @@
             </path>
             <path>
               <item name="MavenDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PvzTrinti.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MavenDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547454159949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547723150377" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -246,12 +242,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547113143865</updated>
-      <workItem from="1547113147448" duration="12611000" />
+      <workItem from="1547113147448" duration="18027000" />
+      <workItem from="1547537190459" duration="27000" />
+      <workItem from="1547537441183" duration="8280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12611000" />
+    <option name="totallyTimeSpent" value="26334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -262,7 +260,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -297,35 +295,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bandymas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#109#110#0" expanded="true" />
             <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/urlOutput">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" lean-forward="true" selection-end-line="1" />
+        <state>
+          <caret selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PvzTrinti.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/URLserializeMaven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="714">
+          <caret line="39" column="83" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -334,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="343">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
         </state>
       </provider>
     </entry>
