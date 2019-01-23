@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cdfa48-ebb9-4ba2-9613-7b8d8854274d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Start/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/Start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/web/Bandymas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Start/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Start/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Start/web/Bandymas.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Start/web/Bandymas.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -131,7 +123,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,12 +164,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547723150377" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Start" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -246,11 +239,14 @@
       <workItem from="1547537190459" duration="27000" />
       <workItem from="1547537441183" duration="8280000" />
       <workItem from="1547723690616" duration="3940000" />
+      <workItem from="1548131166504" duration="595000" />
+      <workItem from="1548141314222" duration="660000" />
+      <workItem from="1548142582156" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30274000" />
+    <option name="totallyTimeSpent" value="31630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -261,7 +257,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.27114093" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -298,7 +294,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
         </state>
       </provider>
     </entry>
