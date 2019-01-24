@@ -1,0 +1,424 @@
+GET http://localhost:8088/start/abc/LoginProcessor?username=admin&password=admin
+Accept: application/x-www-form-urlencoded
+
+user=admin
+
+<> 2019-01-24T101204.200.txt
+
+###
+
+GET http://localhost:8088/start/abc/LoginProcessor?username=admin&password=admin
+Accept: application/x-www-form-urlencoded
+
+user=admin
+
+<> 2019-01-24T093541.404.html
+
+###
+
+GET http://localhost:8088/start/abc/index.html
+Accept: application/x-www-form-urlencoded
+
+user=admin
+
+<> 2019-01-24T093428.200.html
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Petras", "fname": "Martynas"}
+
+<> 2019-01-24T044222.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Petras", "fname": "Martynas"}
+
+<> 2019-01-24T044117.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Petras", "fname": "Martynas"}
+
+<> 2019-01-24T044047.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Petras", "fname": "Martynas"}
+
+<> 2019-01-23T125259.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Petras", "fname": "Martynas"}
+
+<> 2019-01-23T125217.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "", "fname": ""}
+
+<> 2019-01-23T125150.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Martynas"}
+
+<> 2019-01-23T125126.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": ""}
+
+<> 2019-01-23T125052.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": ""}
+
+<> 2019-01-23T125025.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T124257.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T124230.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T123431.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T123250.200.json
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas&fname=Jonaitis
+Accept: application/json
+
+<> 2019-01-23T123218.200.txt
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T122842.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T122814.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T122301.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/x-www-form-urlencoded
+
+name=Jurgis&fname=Martynas
+
+<> 2019-01-23T122254.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T122247.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T122102.200.json
+
+###
+
+GET http://localhost:8088/start/hello
+Accept: application/json
+
+<> 2019-01-23T122044.200.txt
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/x-www-form-urlencoded
+
+name=Jurgis&fname=Martynas
+
+<> 2019-01-23T122031.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T122027.200.json
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas&fname=Jonaitis
+Accept: application/json
+
+<> 2019-01-23T122010.200.txt
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T121905.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Petras"}
+
+<> 2019-01-23T121743.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Petras"}
+
+<> 2019-01-23T121718.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/x-www-form-urlencoded
+
+name=Jurgis&fname=Martynas
+
+<> 2019-01-23T115404.200.json
+
+###
+
+POST http://localhost:8080/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T115230.404.html
+
+###
+
+POST http://localhost:8080/start/hello
+Content-Type: application/json
+
+{"name": "Jurgis", "fname": "Jurgaitis"}
+
+<> 2019-01-23T115216.404.html
+
+###
+
+POST http://localhost:8080/start/hello
+Content-Type: application/x-www-form-urlencoded
+
+name=Jurgis&fname=Martynas
+
+<> 2019-01-23T115200.404.html
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/x-www-fofm-urlencoded
+
+name=Jurgis&fnameMartynas
+
+<> 2019-01-23T114636.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/x-www-fofm-urlencoded
+
+name=Jurgis&fnameMartynas
+
+<> 2019-01-23T112759.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/x-www-fofm-urlencoded
+
+name=Jurgis&fnameMartynas
+
+<> 2019-01-23T112738.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/x-www-fofm-urlencoded
+
+name=Jurgis&fnameMartynas
+
+<> 2019-01-23T112422.200.json
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas&fname=Jonaitis
+Accept: application/json
+
+<> 2019-01-23T110411.200.txt
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas
+Accept: application/json
+
+<> 2019-01-23T105737.200.txt
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas
+Accept: application/json
+
+<> 2019-01-23T105733.200.txt
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas
+Accept: application/json
+
+<> 2019-01-23T105731.200.txt
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas
+Accept: application/json
+
+<> 2019-01-23T105655.200.txt
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas
+Accept: application/json
+
+<> 2019-01-23T105533.200.txt
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas
+Accept: application/json
+
+<> 2019-01-23T105452.200.txt
+
+###
+
+GET http://localhost:8088/start/hello?name=Jonas
+Accept: application/json
+
+<> 2019-01-23T105429.200.txt
+
+###
+
+GET http://localhost:8088/start/hello
+Accept: application/json
+
+<> 2019-01-23T105424.200.txt
+
+###
+
+GET http://localhost:8088/start/hello
+Accept: application/json
+
+<> 2019-01-23T104953.200.txt
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{}
+
+<> 2019-01-23T104924.200.json
+
+###
+
+POST http://localhost:8088/start/hello
+Content-Type: application/json
+
+{}
+
+<> 2019-01-23T104840.200.json
+
+###
+

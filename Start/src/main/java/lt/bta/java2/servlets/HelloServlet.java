@@ -1,62 +1,99 @@
-//package lt.bta.java2.servlets;
-//
-//
-//
-//import javax.servlet.ServletException;
-//import javax.servlet.annotation.WebServlet;
-//import javax.servlet.http.HttpServlet;
-//import javax.servlet.http.HttpServletRequest;
-//import javax.servlet.http.HttpServletResponse;
-//import java.io.IOException;
-//import java.io.PrintWriter;
-//
-//@WebServlet("/hello")
-//public class HelloServlet extends HttpServlet {
-//    @Override
-//    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-//        //super.doGet(req, resp);
-//        PrintWriter writer=resp.getWriter();
-//        writer.println("Hello !");
-//    }
-//}
-//---------------------------------------------------------------------
-
-// To save as "<CATALINA_HOME>\webapps\helloservlet\WEB-INF\src\mypkg\HelloServlet.java"
 package lt.bta.java2.servlets;
 
-import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
 
+import com.google.gson.Gson;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.HashMap;
+import java.util.Map;
+
+@WebServlet("/hello")
 public class HelloServlet extends HttpServlet {
     @Override
-    public void doGet(HttpServletRequest request, HttpServletResponse response)
-            throws IOException, ServletException {
-        // Set the response message's MIME type
-        response.setContentType("text/html;charset=UTF-8");
-        // Allocate a output writer to write the response message into the network socket
-        PrintWriter out = response.getWriter();
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        resp.setContentType("application/json");
+//        PrintWriter writer=resp.getWriter();
+//        writer.println("Hello POST!");
 
-        // Write the response message, in an HTML page
-        try {
-            out.println("<!DOCTYPE html>");
-            out.println("<html><head>");
-            out.println("<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>");
-            out.println("<title>Hello, World</title></head>");
-            out.println("<body>");
-            out.println("<h1>Hello, world!</h1>");  // says Hello
-            // Echo client's request information
-            out.println("<p>Request URI: " + request.getRequestURI() + "</p>");
-            out.println("<p>Protocol: " + request.getProtocol() + "</p>");
-            out.println("<p>PathInfo: " + request.getPathInfo() + "</p>");
-            out.println("<p>Remote Address: " + request.getRemoteAddr() + "</p>");
-            // Generate a random number upon each request
-            out.println("<p>A Random Number: <strong>" + Math.random() + "</strong></p>");
-            out.println("</body>");
-            out.println("</html>");
-        } finally {
-            out.close();  // Always close the output writer
+        Map<String, Object> map = new HashMap<>();
+        map.put("response", "OK");
+        map.put("code", 1234);
+
+//        String name = "None";
+//
+//        if (req.getContentType().equalsIgnoreCase("application/x-www-form-urlencoded")) {
+//            name = req.getParameter("name") + " " +
+//                    req.getParameter("fname");
+//        } else if (req.getContentType().equalsIgnoreCase("application/json")) {
+//            Gson gson = new Gson();
+//            RequestName r = gson.fromJson(req.getReader(), RequestName.class);
+//            name = r.name + " " + r.fname;
+//        }
+//
+//
+//        map.put("result",
+//                new Result(req.getParameter("name"), "2019"));
+//
+//        Gson gson = new Gson();
+//        gson.toJson(map, resp.getWriter());
+//    }
+        String name = "None";
+
+        if (req.getContentType().equalsIgnoreCase("application/x-www-form-urlencoded")) {
+            name = req.getParameter("name") + " " +
+                    req.getParameter("fname");
+        } else
+        if (req.getContentType().equalsIgnoreCase("application/json")) {
+            Gson gson = new Gson();
+            RequestName r = gson.fromJson(req.getReader(), RequestName.class);
+            name = r.name + " " + r.fname;
         }
+
+
+        map.put("result", new Result(name, "2020"));
+        Gson gson = new Gson();
+        gson.toJson(map, resp.getWriter());
+
+    }
+
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        resp.setContentType("text/plain");
+        PrintWriter writer = resp.getWriter();
+        String name = req.getParameter("name");
+        String fname = req.getParameter("fname");
+        writer.println("Hello " + (name == null ? "GET" : name) + (fname == null ? " " : " ") + fname + "!");
+    }
+
+}
+
+class RequestName {
+    String name;
+    String fname;
+
+    public RequestName(String name, String fname) {
+        this.name = name;
+        this.fname = fname;
     }
 }
+
+
+class Result {
+    String massage;
+    String date;
+
+    public Result(String massage, String date) {
+        this.massage = massage;
+        this.date = date;
+    }
+}
+
+
+
 
