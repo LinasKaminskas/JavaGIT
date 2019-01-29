@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 <body>
-            <h1>Labas rytas diena </h1>
+            <h1>Prasome uzsiregistruoti </h1>
 
             <form name="loginForm" method="get" action="LoginProcessor">
                 Username:<br>

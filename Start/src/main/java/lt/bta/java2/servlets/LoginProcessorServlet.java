@@ -1,5 +1,7 @@
 package lt.bta.java2.servlets;
 
+import org.omg.CORBA.Object;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -7,6 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.Objects;
 
 @WebServlet("/abc/LoginProcessor")
 public class LoginProcessorServlet extends HttpServlet {
@@ -43,8 +46,9 @@ public class LoginProcessorServlet extends HttpServlet {
         String password = request.getParameter("password");
 
 
-        if (username.equals("admin")&password.equals("admin")){ // Object.equals(username, "admin") && ... - reikia taip lyginti ant POST
-            writer.println("<h2>Successful Login</h2>");
-        } else writer.println("<h3> Error ! Login Failed </h3>");
+
+        if (Objects.equals(username, "admin")&& (Objects.equals(password, "admin"))){
+            response.sendRedirect("https://www.google.com");
+        } else  writer.println("<h4>Error ! Login Failed<h4>");
     }
 }
