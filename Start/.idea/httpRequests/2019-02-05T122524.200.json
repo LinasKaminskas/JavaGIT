@@ -1,0 +1,21 @@
+{
+  "empNo": 123,
+  "birthDate": {
+    "year": 1999,
+    "month": "DECEMBER",
+    "chronology": {
+      "id": "ISO",
+      "calendarType": "iso8601"
+    },
+    "era": "CE",
+    "leapYear": false,
+    "dayOfMonth": 31,
+    "monthValue": 12,
+    "dayOfWeek": "FRIDAY",
+    "dayOfYear": 365
+  },
+  "firstName": "Jonas",
+  "lastName": null,
+  "hireDate": null,
+  "gender": null
+}
