@@ -13,7 +13,7 @@ public class ObjectMapperContextResolver implements ContextResolver<ObjectMapper
     public ObjectMapperContextResolver() {
         mapper = new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
-        mapper.configure(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS, false);
+        mapper.configure(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS, false); //rasyti kaip stringa
     }
 
     @Override

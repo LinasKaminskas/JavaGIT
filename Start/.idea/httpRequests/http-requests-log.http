@@ -1,42 +1,235 @@
-GET http://localhost:8088/start/api/employee/1
+GET http://localhost:8088/start/api/employee/100018
 Accept: application/json
 
-<> 2019-02-05T122552.200.json
+<> 2019-02-12T092325.200.json
 
 ###
 
-GET http://localhost:8088/start/api/employee/1
+GET http://localhost:8088/start/api/employee/100018
 Accept: application/json
 
-<> 2019-02-05T122524.200.json
+<> 2019-02-11T121817.200.json
 
 ###
 
-GET http://localhost:8088/start/api/employee/1
+GET http://localhost:8088/start/api/employee/100018
 Accept: application/json
 
-<> 2019-02-05T122315.200.json
+<> 2019-02-11T121137.500.html
 
 ###
 
-GET http://localhost:8088/start/api/employee/1
+GET http://localhost:8088/start/api/title/100000
 Accept: application/json
 
-<> 2019-02-05T121126.200.json
+<> 2019-02-11T121128.200.json
 
 ###
 
-GET http://localhost:8088/start/api/employee/1
+GET http://localhost:8088/start/api/employee/100018
 Accept: application/json
 
-<> 2019-02-05T120314.200.json
+<> 2019-02-11T120822.500.html
 
 ###
 
-GET http://localhost:8088/api/employee/1
+GET http://localhost:8088/start/api/employee/100018
 Accept: application/json
 
-<> 2019-02-05T115334.404.html
+<> 2019-02-11T104246.200.json
+
+###
+
+POST http://localhost:8088/start/api/employee/100018
+Accept: application/json
+
+<> 2019-02-11T104215.405.html
+
+###
+
+POST http://localhost:8088/start/api/employee/100009
+Accept: application/json
+
+<> 2019-02-11T104158.405.html
+
+###
+
+GET http://localhost:8088/start/api/title/100000
+Accept: application/json
+
+<> 2019-02-11T102637.200.json
+
+###
+
+GET http://localhost:8088/start/api/title/500000
+Accept: application/json
+
+<> 2019-02-11T102625.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
+
+<> 2019-02-11T102559.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+<> 2019-02-11T102552.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/5000000
+Accept: application/json
+
+<> 2019-02-11T102544.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/5000000
+Accept: application/json
+
+<> 2019-02-11T102513.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+<> 2019-02-11T102505.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+<> 2019-02-11T102147.404.html
+
+###
+
+DELETE http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+<> 2019-02-11T102137.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/5000000000
+Accept: application/json
+
+<> 2019-02-11T102123.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/50000000
+Accept: application/json
+
+<> 2019-02-11T102119.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/5000000
+Accept: application/json
+
+<> 2019-02-11T102115.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+<> 2019-02-11T102107.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/500000000
+Accept: application/json
+
+<> 2019-02-11T102057.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
+
+<> 2019-02-11T102049.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/5000000
+Accept: application/json
+
+<> 2019-02-11T102042.404.html
+
+###
+
+GET http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+<> 2019-02-11T102030.404.html
+
+###
+
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
+
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
+
+<> 2019-02-11T095007.415.html
+
+###
+
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
+
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
+
+<> 2019-02-11T094946.415.html
+
+###
+
+DELETE http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+###
+
+DELETE http://localhost:8088/start/api/employee/5000000
+Accept: application/json
+
+<> 2019-02-11T094414.404.html
+
+###
+
+GET http://localhost:8088/start/hi
+Accept: application/json
+
+<> 2019-02-11T094353.404.html
+
+###
+
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
+
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
+
+<> 2019-02-11T093525.415.html
+
+###
+
+GET http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+<> 2019-02-11T093509.200.json
+
+###
+
+GET http://localhost:8088/start/api/employee/50
+Accept: application/json
+
+<> 2019-02-11T093457.404.html
 
 ###
 
@@ -47,436 +240,131 @@ limit=10
 
 {}
 
-<> 2019-02-05T091804.200.txt
+<> 2019-02-11T093440.200.txt
 
 ###
 
-GET http://localhost:8088/start/abc/LoginProcessor?username=admin&password=admin
-Accept: application/x-www-form-urlencoded
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
-user=admin
-
-<> 2019-01-31T104534.500.html
+<> 2019-02-11T093417.404.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
 
-limit=10
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
 
-{}
-
-<> 2019-01-30T120910.200.txt
+<> 2019-02-11T093322.415.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+DELETE http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
-limit=10
-
-{}
-
-<> 2019-01-30T120214.200.txt
+<> 2019-02-11T093201.404.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
-limit=10
-
-{}
-
-<> 2019-01-30T120102.200.txt
+<> 2019-02-11T093147.404.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
 
-limit=10
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
 
-{}
-
-<> 2019-01-30T115645.200.txt
+<> 2019-02-11T093136.415.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
 
-limit=10
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
 
-{}
-
-<> 2019-01-30T115424.200.txt
+<> 2019-02-07T110453.415.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=10
-
-{}
-
-<> 2019-01-30T115356.200.txt
+DELETE http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
 
-limit=10
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
 
-{}
-
-<> 2019-01-30T115309.200.txt
+<> 2019-02-07T104916.415.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
-{}
-
-<> 2019-01-30T114929.200.txt
+<> 2019-02-07T104912.200.json
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
 
-{}
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
 
-<> 2019-01-30T114714.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T114651.200.txt
+<> 2019-02-07T104907.415.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
 
-{}
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
 
-<> 2019-01-30T114616.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-{}
-
-<> 2019-01-30T114503.200.txt
+<> 2019-02-07T103134.415.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
-limit=200&offset=0
-
-{}
-
-<> 2019-01-30T114421.200.txt
+<> 2019-02-07T103116.200.json
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+POST http://localhost:8088/start/api/employee/add
+Accept: application/json
 
-limit=200&offset=0
+{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
 
-{}
-
-<> 2019-01-30T114257.200.txt
+<> 2019-02-07T102910.415.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
-limit=200&offset=0
-
-{}
-
-<> 2019-01-30T112814.200.txt
+<> 2019-02-07T102906.200.json
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8088/start/api/employee/50000
+Accept: application/json
 
-limit=200&offset=150
-
-{}
-
-<> 2019-01-30T112804.200.txt
+<> 2019-02-07T102546.500.html
 
 ###
 
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8088/start/hello?name=Jonas&fname=Jonaitis
+Accept: application/json
 
-limit=200&offset=15
-
-{}
-
-<> 2019-01-30T112739.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=2&offset=15
-
-{}
-
-<> 2019-01-30T112706.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=15
-
-{}
-
-<> 2019-01-30T112611.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=1
-
-{}
-
-<> 2019-01-30T112549.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=1
-
-{}
-
-<> 2019-01-30T112504.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=25
-
-{}
-
-<> 2019-01-30T112448.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=5
-
-{}
-
-<> 2019-01-30T112429.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=5
-
-{}
-
-<> 2019-01-30T105700.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=5
-
-{}
-
-<> 2019-01-30T105630.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit=20&offset=5
-
-{}
-
-<> 2019-01-30T104133.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/x-www-form-urlencoded
-
-limit =20&offset=5
-
-{}
-
-<> 2019-01-30T104028.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T103743.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T103220.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T103157.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T103129.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T103105.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T103030.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T102919.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T061556.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-30T061521.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-29T120659.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-29T115342.200.txt
-
-###
-
-POST http://localhost:8088/start/EmployeesServlet
-Content-Type: application/json
-
-{}
-
-<> 2019-01-29T114623.200.txt
-
-###
-
-POST http://localhost:8088/start/hi
-Content-Type: application/json
-
-{}
-
-###
-
-POST http://localhost:8088/start/Employees
-Content-Type: application/json
-
-{}
-
-<> 2019-01-29T114142.404.html
-
-###
-
-POST http://localhost:8088/start/Employees
-Content-Type: application/json
-
-{}
-
-<> 2019-01-29T113713.404.html
+<> 2019-02-07T102538.200.txt
 
 ###
 

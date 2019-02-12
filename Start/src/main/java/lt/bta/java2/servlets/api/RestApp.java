@@ -1,6 +1,7 @@
 package lt.bta.java2.servlets.api;
 
 import lt.bta.java2.servlets.api.impl.EmployeeServiceImpl;
+import lt.bta.java2.servlets.api.impl.TitleServiceImpl;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
@@ -15,7 +16,8 @@ public class RestApp extends Application {
         Set<Class<?>> resources = new HashSet<>();
         resources.add(EmployeeServiceImpl.class);
         resources.add(ObjectMapperContextResolver.class);
+        resources.add(TitleServiceImpl.class);
         //...
-        return super.getClasses();
+        return resources;
     }
 }

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head><title>HTTP Status 500 – Internal Server Error</title>
+    <style type="text/css">h1 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 22px;
+    }
+
+    h2 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 16px;
+    }
+
+    h3 {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+        font-size: 14px;
+    }
+
+    body {
+        font-family: Tahoma, Arial, sans-serif;
+        color: black;
+        background-color: white;
+    }
+
+    b {
+        font-family: Tahoma, Arial, sans-serif;
+        color: white;
+        background-color: #525D76;
+    }
+
+    p {
+        font-family: Tahoma, Arial, sans-serif;
+        background: white;
+        color: black;
+        font-size: 12px;
+    }
+
+    a {
+        color: black;
+    }
+
+    a.name {
+        color: black;
+    }
+
+    .line {
+        height: 1px;
+        background-color: #525D76;
+        border: none;
+    }</style>
+</head>
+<body><h1>HTTP Status 500 – Internal Server Error</h1>
+<hr class="line"/>
+<p><b>Type</b> Exception Report</p>
+<p><b>Message</b> java.lang.IllegalArgumentException: Provided id of the wrong type for class
+    lt.bta.java2.servlets.entites.Employee. Expected: class java.lang.Long, got class java.lang.Integer</p>
+<p><b>Description</b> The server encountered an unexpected condition that prevented it from fulfilling the request.</p>
+<p><b>Exception</b></p>
+<pre>javax.servlet.ServletException: java.lang.IllegalArgumentException: Provided id of the wrong type for class lt.bta.java2.servlets.entites.Employee. Expected: class java.lang.Long, got class java.lang.Integer
+	org.glassfish.jersey.servlet.WebComponent.serviceImpl(WebComponent.java:432)
+	org.glassfish.jersey.servlet.WebComponent.service(WebComponent.java:370)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:389)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:342)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:229)
+	org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+</pre>
+<p><b>Root Cause</b></p>
+<pre>java.lang.IllegalArgumentException: Provided id of the wrong type for class lt.bta.java2.servlets.entites.Employee. Expected: class java.lang.Long, got class java.lang.Integer
+	org.hibernate.internal.SessionImpl.find(SessionImpl.java:3566)
+	org.hibernate.internal.SessionImpl.find(SessionImpl.java:3512)
+	lt.bta.java2.servlets.api.impl.EmployeeServiceImpl.getEmployee(EmployeeServiceImpl.java:153)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:498)
+	org.glassfish.jersey.server.model.internal.ResourceMethodInvocationHandlerFactory.lambda$static$0(ResourceMethodInvocationHandlerFactory.java:76)
+	org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher$1.run(AbstractJavaResourceMethodDispatcher.java:148)
+	org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.invoke(AbstractJavaResourceMethodDispatcher.java:191)
+	org.glassfish.jersey.server.model.internal.JavaResourceMethodDispatcherProvider$ResponseOutInvoker.doDispatch(JavaResourceMethodDispatcherProvider.java:200)
+	org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.dispatch(AbstractJavaResourceMethodDispatcher.java:103)
+	org.glassfish.jersey.server.model.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:493)
+	org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:415)
+	org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:104)
+	org.glassfish.jersey.server.ServerRuntime$1.run(ServerRuntime.java:277)
+	org.glassfish.jersey.internal.Errors$1.call(Errors.java:272)
+	org.glassfish.jersey.internal.Errors$1.call(Errors.java:268)
+	org.glassfish.jersey.internal.Errors.process(Errors.java:316)
+	org.glassfish.jersey.internal.Errors.process(Errors.java:298)
+	org.glassfish.jersey.internal.Errors.process(Errors.java:268)
+	org.glassfish.jersey.process.internal.RequestScope.runInScope(RequestScope.java:289)
+	org.glassfish.jersey.server.ServerRuntime.process(ServerRuntime.java:256)
+	org.glassfish.jersey.server.ApplicationHandler.handle(ApplicationHandler.java:703)
+	org.glassfish.jersey.servlet.WebComponent.serviceImpl(WebComponent.java:416)
+	org.glassfish.jersey.servlet.WebComponent.service(WebComponent.java:370)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:389)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:342)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:229)
+	org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+</pre>
+<p><b>Root Cause</b></p>
+<pre>org.hibernate.TypeMismatchException: Provided id of the wrong type for class lt.bta.java2.servlets.entites.Employee. Expected: class java.lang.Long, got class java.lang.Integer
+	org.hibernate.event.internal.DefaultLoadEventListener.checkIdClass(DefaultLoadEventListener.java:150)
+	org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:70)
+	org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1287)
+	org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:211)
+	org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.doLoad(SessionImpl.java:2923)
+	org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.lambda$load$1(SessionImpl.java:2904)
+	org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.perform(SessionImpl.java:2860)
+	org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2904)
+	org.hibernate.internal.SessionImpl.find(SessionImpl.java:3545)
+	org.hibernate.internal.SessionImpl.find(SessionImpl.java:3512)
+	lt.bta.java2.servlets.api.impl.EmployeeServiceImpl.getEmployee(EmployeeServiceImpl.java:153)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:498)
+	org.glassfish.jersey.server.model.internal.ResourceMethodInvocationHandlerFactory.lambda$static$0(ResourceMethodInvocationHandlerFactory.java:76)
+	org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher$1.run(AbstractJavaResourceMethodDispatcher.java:148)
+	org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.invoke(AbstractJavaResourceMethodDispatcher.java:191)
+	org.glassfish.jersey.server.model.internal.JavaResourceMethodDispatcherProvider$ResponseOutInvoker.doDispatch(JavaResourceMethodDispatcherProvider.java:200)
+	org.glassfish.jersey.server.model.internal.AbstractJavaResourceMethodDispatcher.dispatch(AbstractJavaResourceMethodDispatcher.java:103)
+	org.glassfish.jersey.server.model.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:493)
+	org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:415)
+	org.glassfish.jersey.server.model.ResourceMethodInvoker.apply(ResourceMethodInvoker.java:104)
+	org.glassfish.jersey.server.ServerRuntime$1.run(ServerRuntime.java:277)
+	org.glassfish.jersey.internal.Errors$1.call(Errors.java:272)
+	org.glassfish.jersey.internal.Errors$1.call(Errors.java:268)
+	org.glassfish.jersey.internal.Errors.process(Errors.java:316)
+	org.glassfish.jersey.internal.Errors.process(Errors.java:298)
+	org.glassfish.jersey.internal.Errors.process(Errors.java:268)
+	org.glassfish.jersey.process.internal.RequestScope.runInScope(RequestScope.java:289)
+	org.glassfish.jersey.server.ServerRuntime.process(ServerRuntime.java:256)
+	org.glassfish.jersey.server.ApplicationHandler.handle(ApplicationHandler.java:703)
+	org.glassfish.jersey.servlet.WebComponent.serviceImpl(WebComponent.java:416)
+	org.glassfish.jersey.servlet.WebComponent.service(WebComponent.java:370)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:389)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:342)
+	org.glassfish.jersey.servlet.ServletContainer.service(ServletContainer.java:229)
+	org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+</pre>
+<p><b>Note</b> The full stack trace of the root cause is available in the server logs.</p>
+<hr class="line"/>
+<h3>Apache Tomcat/9.0.14</h3></body>
+</html>

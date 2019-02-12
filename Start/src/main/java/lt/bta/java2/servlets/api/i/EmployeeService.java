@@ -9,11 +9,13 @@ public interface EmployeeService {
 
     Response deleteEmployee(int id);
 
-    Response getEmployee(int id);
+    Response getEmployee(long id);
 
     Response updateEmployee(int id, Employee e);
 
-    Employee[] getAllEmployees(int size, int offset);
+    Response getAllEmployees(int size, int offset);
+
+    Response getEmployeeTitles(int id);
 
 }
 

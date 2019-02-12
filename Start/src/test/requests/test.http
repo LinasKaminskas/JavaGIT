@@ -45,7 +45,19 @@ limit=10
 
 {}
 ###
-GET http://localhost:8088/start/api/employee/1
+GET http://localhost:8088/start/api/title/100000
 Accept: application/json
 
 ###
+GET http://localhost:8088/start/api/employee/100018
+Accept: application/json
+
+//{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
+
+###
+DELETE http://localhost:8088/start/api/employee/500000
+Accept: application/json
+
+###
+
+

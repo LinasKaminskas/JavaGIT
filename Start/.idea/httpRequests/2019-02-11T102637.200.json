@@ -1,0 +1,14 @@
+{
+  "empNo": 100000,
+  "title": "Senior Staff",
+  "fromDate": "1991-07-02",
+  "toDate": "9999-01-01",
+  "employee": {
+    "empNo": 100000,
+    "birthDate": "1956-01-11",
+    "firstName": "Hiroyasu",
+    "lastName": "Emden",
+    "hireDate": "1991-07-02",
+    "gender": "M"
+  }
+}
