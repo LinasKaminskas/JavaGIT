@@ -6,7 +6,6 @@ import java.time.LocalDate;
 import java.util.List;
 
 
-
 @Entity
 @Table(name = "employees")
 public class Employee implements Serializable {
@@ -23,10 +22,9 @@ public class Employee implements Serializable {
     private String lastName;
     @Column(name = "hire_date")
     private LocalDate hireDate;
-    @Column
+    @Column(columnDefinition="ENUM('M','F')")
     @Enumerated(EnumType.STRING)
     private Gender gender;
-
     public long getEmpNo() {
         return empNo;
     }

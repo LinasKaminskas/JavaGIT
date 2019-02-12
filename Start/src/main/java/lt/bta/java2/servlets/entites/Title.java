@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.time.LocalDate;
 
 public class Title implements Serializable {
+
     private  long empNo;
     private  String title;
     private LocalDate fromDate;

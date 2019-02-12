@@ -5,18 +5,28 @@
     <!-- Define persistence unit -->
     <persistence-unit name="employees-persistence-unit"> <!--hipernate conecction-->
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-        <!--<class>lt.bta.java2.jpa.entities.Employee</class>-->
+        <!--<class>lt.bta.java2.servlets.entites.Employee</class>-->
         <!--<class>lt.bta.java2.jpa.entities.Salary</class>-->
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
-            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/employees?useUnicode=yes&amp;characterEncoding=UTF-8" />
+            <property name="javax.persistence.jdbc.url"
+                      value="jdbc:mysql://localhost:3306/employees?useUnicode=yes&amp;characterEncoding=UTF-8"/>
             <!-- Gali mesti klaida, taisoma: mysql://localhost:3306/employees?useUnicode=yes&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC-->
-            <property name="javax.persistence.jdbc.user" value="root" />
-            <property name="javax.persistence.jdbc.password" value="mysql" />
-            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
+            <property name="javax.persistence.jdbc.user" value="root"/>
+            <property name="javax.persistence.jdbc.password" value="mysql"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect"/>
 
-            <property name="hibernate.show_sql" value="true" />
-            <property name="hibernate.format_sql" value="true" />
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.format_sql" value="true"/>
+            <!--
+validate: validate the schema, makes no changes to the database.
+update: update the schema.
+create: creates the schema, destroying previous data.
+create-drop: drop the schema when the SessionFactory is closed explicitly, typically when the application is stopped.
+-->
+           <!--<property name="hibernate.hbm2ddl.auto" value="validate"/>-->
+
+            <!--Galima nurodyti apdeitinti duomenu baze, viska resenti, patikrina ar db atitinka lauko tipas "entittes"-->
         </properties>
     </persistence-unit>
 </persistence>

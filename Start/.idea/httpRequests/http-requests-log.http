@@ -1,3 +1,56 @@
+POST http://localhost:8088/start/EmployeesServlet
+Content-Type: application/x-www-form-urlencoded
+
+limit=10
+
+{}
+
+<> 2019-02-12T023917.200.txt
+
+###
+
+GET http://localhost:8088/start/api/employee/100018
+Accept: application/json
+
+<> 2019-02-12T101701.200.json
+
+###
+
+GET http://localhost:8088/start/api/employee/100018
+Accept: application/json
+
+<> 2019-02-12T101622.200.json
+
+###
+
+GET http://localhost:8088/start/api/employee/100018
+Accept: application/json
+
+<> 2019-02-12T101409.200.json
+
+###
+
+GET http://localhost:8088/start/api/employee/100018
+Accept: application/json
+
+<> 2019-02-12T101313.200.json
+
+###
+
+GET http://localhost:8088/start/api/title/100000
+Accept: application/json
+
+<> 2019-02-12T101308.200.json
+
+###
+
+GET http://localhost:8088/start/api/employee/100018
+Accept: application/json
+
+<> 2019-02-12T101254.200.json
+
+###
+
 GET http://localhost:8088/start/api/employee/100018
 Accept: application/json
 
@@ -310,61 +363,6 @@ GET http://localhost:8088/start/api/employee/50000
 Accept: application/json
 
 <> 2019-02-07T104912.200.json
-
-###
-
-POST http://localhost:8088/start/api/employee/add
-Accept: application/json
-
-{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
-
-<> 2019-02-07T104907.415.html
-
-###
-
-POST http://localhost:8088/start/api/employee/add
-Accept: application/json
-
-{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
-
-<> 2019-02-07T103134.415.html
-
-###
-
-GET http://localhost:8088/start/api/employee/50000
-Accept: application/json
-
-<> 2019-02-07T103116.200.json
-
-###
-
-POST http://localhost:8088/start/api/employee/add
-Accept: application/json
-
-{"birthDate": "2000-10-10", "firstName": "Petras", "lastName": "Petrauskas", "gender": "M", "hireDate": "2019-01-10"}
-
-<> 2019-02-07T102910.415.html
-
-###
-
-GET http://localhost:8088/start/api/employee/50000
-Accept: application/json
-
-<> 2019-02-07T102906.200.json
-
-###
-
-GET http://localhost:8088/start/api/employee/50000
-Accept: application/json
-
-<> 2019-02-07T102546.500.html
-
-###
-
-GET http://localhost:8088/start/hello?name=Jonas&fname=Jonaitis
-Accept: application/json
-
-<> 2019-02-07T102538.200.txt
 
 ###
 

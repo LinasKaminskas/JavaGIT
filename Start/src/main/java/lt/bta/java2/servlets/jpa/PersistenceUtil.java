@@ -37,8 +37,7 @@ public class PersistenceUtil {
             R res = action.apply(entityManager);
             transaction.commit();
             return res;
-        }
-        catch (RuntimeException e) {
+        } catch (RuntimeException e) {
             transaction.rollback();
             throw e;
         } finally {
