@@ -5,6 +5,12 @@
     <!-- Define persistence unit -->
     <persistence-unit name="employees-persistence-unit"> <!--hipernate conecction-->
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>lt.bta.java.spring.entites.Department</class>
+        <class>lt.bta.java.spring.entites.DeptEmp</class>
+        <class>lt.bta.java.spring.entites.DeptManager</class>
+        <class>lt.bta.java.spring.entites.Employee</class>
+        <class>lt.bta.java.spring.entites.Salaries</class>
+        <class>lt.bta.java.spring.entites.Title</class>
         <!--<class>lt.bta.java2.servlets.entites.Employee</class>-->
         <!--<class>lt.bta.java2.jpa.entities.Salary</class>-->
         <properties>
@@ -18,6 +24,14 @@
 
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
+            <property name="toplink.jdbc.url" value="jdbc:mysql://localhost:3306/employees"/>
+            <property name="toplink.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+            <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/employees"/>
+            <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/>
+            <property name="openjpa.ConnectionURL" value="jdbc:mysql://localhost:3306/employees"/>
+            <property name="openjpa.ConnectionDriverName" value="com.mysql.jdbc.Driver"/>
+            <property name="eclipselink.jdbc.url" value="jdbc:mysql://localhost:3306/employees"/>
+            <property name="eclipselink.jdbc.driver" value="com.mysql.jdbc.Driver"/>
             <!--
 validate: validate the schema, makes no changes to the database.
 update: update the schema.
