@@ -11,7 +11,15 @@ public class Studentas implements Serializable {
     private String vardas;
     private String pavarde;
     private String el_pastas;
-    private List<Integer> pazymiai = new ArrayList<>();
+    private List<Pazymiai> pazymys;
+
+    public List<Pazymiai> getPazymys() {
+        return pazymys;
+    }
+
+    public void setPazymys(List<Pazymiai> pazymys) {
+        this.pazymys = pazymys;
+    }
 
     public int getId() {
         return id;
@@ -45,13 +53,6 @@ public class Studentas implements Serializable {
         this.el_pastas = el_pastas;
     }
 
-    public List<Integer> getPazymiai() {
-        return pazymiai;
-    }
-
-    public void setPazymiai(List<Integer> pazymiai) {
-        this.pazymiai = pazymiai;
-    }
 
     @Override
     public String toString() {
@@ -60,8 +61,9 @@ public class Studentas implements Serializable {
                 ", vardas='" + vardas + '\'' +
                 ", pavarde='" + pavarde + '\'' +
                 ", el_pastas='" + el_pastas + '\'' +
-                ", pazymiai=" + pazymiai +
+                ", pazymiai=" + pazymys+
                 '}';
     }
+
 }
 
